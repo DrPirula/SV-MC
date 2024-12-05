@@ -147,7 +147,8 @@
     "criteria": {
       "minecraft:river": "2024-12-05 03:33:27 +0000",
       "minecraft:forest": "2024-12-05 03:28:41 +0000",
-      "minecraft:savanna": "2024-12-05 03:27:29 +0000"
+      "minecraft:savanna": "2024-12-05 03:27:29 +0000",
+      "minecraft:plains": "2024-12-05 03:47:02 +0000"
     },
     "done": false
   },
@@ -169,11 +170,23 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-05 03:43:43 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2024-12-05 03:27:29 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-05 03:43:43 +0000"
+    },
+    "done": true
   },
   "betterdeserttemples:root": {
     "criteria": {
