@@ -839,3 +839,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 22:45:43.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Once Upon a Cave]
 [05Dec2024 22:46:00.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Who You Gonna Call?]
 [05Dec2024 22:49:49.967] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/36390, l='ServerLevel[world]', x=-373.94, y=70.34, z=105.01] died, message: 'Beekeeper was slain by Door Knight'
+[05Dec2024 22:51:39.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Dec2024 22:52:54.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [We do a little trolling...]
+[05Dec2024 22:52:55.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [We do a little trolling...]
+[05Dec2024 22:53:47.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [Ashes 'n Bones]
+[05Dec2024 22:53:47.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [Who You Gonna Call?]
+[05Dec2024 22:53:49.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo withered away
+[05Dec2024 22:53:49.122] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 22:54:21.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has reached the goal [Bone Crusher]
+[05Dec2024 22:55:04.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was killed by Savannah Zombie using magic
+[05Dec2024 22:55:04.225] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 22:55:57.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[05Dec2024 22:56:04.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Ghost
+[05Dec2024 22:56:04.668] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 22:56:43.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has reached the goal [Bone Crusher]
+[05Dec2024 22:56:47.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Prank em John!]
+[05Dec2024 22:57:22.868] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/36364, l='ServerLevel[world]', x=-347.62, y=68.00, z=28.50] died, message: 'Scribe was burnt to a crisp whilst fighting Savannah Zombie'
+[05Dec2024 22:57:52.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was killed by Savannah Zombie using magic
+[05Dec2024 22:57:52.569] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 22:59:07.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [The Parrots and the Bats]

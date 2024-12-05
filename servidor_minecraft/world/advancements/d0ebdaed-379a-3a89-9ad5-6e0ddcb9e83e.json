@@ -350,5 +350,23 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-05 22:53:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-12-05 22:52:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 22:53:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

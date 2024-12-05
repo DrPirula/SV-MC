@@ -440,6 +440,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 22:54:21 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2024-12-05 22:45:43 +0000"
@@ -449,6 +455,12 @@
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2024-12-05 22:19:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-12-05 22:52:54 +0000"
     },
     "done": true
   },
