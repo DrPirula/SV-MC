@@ -183,6 +183,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-05 04:17:20 +0000",
       "minecraft:vindicator": "2024-12-05 03:29:56 +0000",
       "minecraft:evoker": "2024-12-05 04:10:51 +0000",
       "minecraft:zombie": "2024-12-05 03:40:08 +0000"
@@ -293,6 +294,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-05 04:24:25 +0000",
       "bread": "2024-12-05 04:03:22 +0000",
       "golden_apple": "2024-12-05 04:08:04 +0000",
       "rotten_flesh": "2024-12-05 03:57:18 +0000"
@@ -316,6 +318,12 @@
       "killed_evoker": "2024-12-05 04:10:51 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-05 04:17:20 +0000"
+    },
+    "done": true
   },
   "minecraft:story/shiny_gear": {
     "criteria": {

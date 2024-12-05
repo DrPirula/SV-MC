@@ -147,73 +147,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-05 04:15:55 +0000"
+      "log_spam_fixer": "2024-12-05 04:25:55 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-05 04:15:55 +0000"
+      "log_spam_fixer": "2024-12-05 04:25:55 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-05 04:15:55 +0000"
+      "log_spam_fixer": "2024-12-05 04:25:55 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-05 04:15:55 +0000"
+      "log_spam_fixer": "2024-12-05 04:25:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-05 04:15:55 +0000"
+      "log_spam_fixer": "2024-12-05 04:25:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-05 04:15:55 +0000"
+      "log_spam_fixer": "2024-12-05 04:25:55 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-05 04:15:55 +0000"
+      "log_spam_fixer": "2024-12-05 04:25:55 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-05 04:15:55 +0000"
+      "log_spam_fixer": "2024-12-05 04:25:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-05 04:15:55 +0000"
+      "log_spam_fixer": "2024-12-05 04:25:55 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-05 04:15:55 +0000"
+      "log_spam_fixer": "2024-12-05 04:25:55 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-05 04:15:55 +0000"
+      "log_spam_fixer": "2024-12-05 04:25:55 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-05 04:15:55 +0000"
+      "log_spam_fixer": "2024-12-05 04:25:55 +0000"
     },
     "done": false
   },
@@ -232,6 +232,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2024-12-05 03:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-05 04:18:58 +0000"
     },
     "done": true
   },
@@ -283,6 +289,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-05 04:23:49 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-05 04:15:24 +0000"
@@ -301,6 +313,12 @@
       "minecraft:zombie": "2024-12-05 04:03:10 +0000"
     },
     "done": false
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-05 04:23:49 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
@@ -332,6 +350,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-05 04:23:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-05 03:31:28 +0000"
@@ -353,6 +377,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-05 03:31:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-05 04:24:01 +0000"
     },
     "done": true
   },

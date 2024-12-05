@@ -149,6 +149,18 @@
     },
     "done": false
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-05 04:18:34 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-05 04:18:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-05 03:32:08 +0000"
@@ -158,6 +170,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-05 03:40:31 +0000",
+      "minecraft:vindicator": "2024-12-05 04:22:17 +0000",
       "minecraft:zombie": "2024-12-05 04:02:28 +0000"
     },
     "done": false
@@ -217,6 +230,12 @@
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-12-05 03:55:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 04:16:24 +0000"
     },
     "done": true
   },
