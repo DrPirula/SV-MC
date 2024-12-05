@@ -798,3 +798,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 22:30:27.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mufinmatias> en el de tusca
 [05Dec2024 22:30:35.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JorgeTheDogJa> yapo
 [05Dec2024 22:30:36.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mufinmatias> yo soy joto y maricon
+[05Dec2024 22:30:43.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5088ms or 101 ticks behind
+[05Dec2024 22:30:59.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JorgeTheDogJa> yapooo
+[05Dec2024 22:31:08.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9622ms or 192 ticks behind
+[05Dec2024 22:31:17.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [Book of Monsters]
+[05Dec2024 22:31:27.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4583ms or 91 ticks behind
+[05Dec2024 22:31:49.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mufinmatias> yapo metete al s
+[05Dec2024 22:31:56.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mufinmatias> ds*
+[05Dec2024 22:32:03.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20287ms or 405 ticks behind
+[05Dec2024 22:32:05.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JorgeTheDogJa> ya voy
+[05Dec2024 22:32:11.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JorgeTheDogJa> deja voy a cagar
+[05Dec2024 22:32:12.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JorgeTheDogJa lost connection: Disconnected
+[05Dec2024 22:32:12.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa left the game
+[05Dec2024 22:32:25.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7870ms or 157 ticks behind
+[05Dec2024 22:32:43.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[05Dec2024 22:32:53.279] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Dec2024 22:32:53.293] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Dec2024 22:33:11.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12820ms or 256 ticks behind
+[05Dec2024 22:33:34.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7880ms or 157 ticks behind
+[05Dec2024 22:33:52.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3727ms or 74 ticks behind
+[05Dec2024 22:34:16.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
+[05Dec2024 22:34:37.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6758ms or 135 ticks behind
+[05Dec2024 22:34:58.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5644ms or 112 ticks behind
+[05Dec2024 22:35:17.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[05Dec2024 22:35:39.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2868ms or 57 ticks behind
+[05Dec2024 22:35:58.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4002ms or 80 ticks behind
+[05Dec2024 22:36:05.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mufinmatias moved too quickly! -9.96575959241261,1.1617558393100467,-0.5428008208032225
+[05Dec2024 22:36:49.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05Dec2024 22:37:10.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5717ms or 114 ticks behind
+[05Dec2024 22:37:46.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05Dec2024 22:37:53.126] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JorgeTheDogJa[/127.198.87.174:58565] logged in with entity id 39225 at (-327.7833084280186, 69.125, -4.103328679282443)
+[05Dec2024 22:37:53.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa joined the game
+[05Dec2024 22:39:29.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Sticky Situation]
+[05Dec2024 22:39:50.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JorgeTheDogJa lost connection: Disconnected
+[05Dec2024 22:39:50.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa left the game
