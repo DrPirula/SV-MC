@@ -832,3 +832,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 22:39:29.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Sticky Situation]
 [05Dec2024 22:39:50.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JorgeTheDogJa lost connection: Disconnected
 [05Dec2024 22:39:50.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa left the game
+[05Dec2024 22:41:14.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[05Dec2024 22:42:14.042] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JorgeTheDogJa[/127.198.87.174:37645] logged in with entity id 41272 at (-369.5464292676701, 68.0625, 45.42777154347577)
+[05Dec2024 22:42:14.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa joined the game
+[05Dec2024 22:45:14.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[05Dec2024 22:45:43.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Once Upon a Cave]
+[05Dec2024 22:46:00.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Who You Gonna Call?]
+[05Dec2024 22:49:49.967] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/36390, l='ServerLevel[world]', x=-373.94, y=70.34, z=105.01] died, message: 'Beekeeper was slain by Door Knight'
