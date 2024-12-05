@@ -770,3 +770,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 22:19:24.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Zombie
 [05Dec2024 22:19:24.621] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
 [05Dec2024 22:19:35.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [My Name is Nobody]
+[05Dec2024 22:20:17.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[05Dec2024 22:20:45.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13082ms or 261 ticks behind
+[05Dec2024 22:21:09.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8812ms or 176 ticks behind
+[05Dec2024 22:21:29.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4860ms or 97 ticks behind
+[05Dec2024 22:21:55.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[05Dec2024 22:22:15.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5382ms or 107 ticks behind
+[05Dec2024 22:22:35.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4565ms or 91 ticks behind
+[05Dec2024 22:22:35.940] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=43}
+[05Dec2024 22:22:35.942] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=-58, z=45}
+[05Dec2024 22:22:35.943] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=41, y=-58, z=48}
+[05Dec2024 22:22:35.943] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=-58, z=49}
+[05Dec2024 22:22:36.118] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=34, y=-58, z=50}
+[05Dec2024 22:22:45.484] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-58, z=41}
+[05Dec2024 22:22:52.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Sprinter
+[05Dec2024 22:22:53.033] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 22:22:54.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4206ms or 84 ticks behind
+[05Dec2024 22:24:05.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Husk
+[05Dec2024 22:24:05.236] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 22:24:14.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has completed the challenge [Well, that was disgusting]
+[05Dec2024 22:29:59.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Hot Stuff]
+[05Dec2024 22:30:01.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JorgeTheDogJa[/127.198.87.174:38401] logged in with entity id 29481 at (-345.63942704965945, 71.0, 3.9884655080578133)
+[05Dec2024 22:30:01.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa joined the game
+[05Dec2024 22:30:04.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[05Dec2024 22:30:20.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JorgeTheDogJa> en que ds estan
+[05Dec2024 22:30:23.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3972ms or 79 ticks behind
+[05Dec2024 22:30:27.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mufinmatias> en el de tusca
+[05Dec2024 22:30:35.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JorgeTheDogJa> yapo
+[05Dec2024 22:30:36.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mufinmatias> yo soy joto y maricon
