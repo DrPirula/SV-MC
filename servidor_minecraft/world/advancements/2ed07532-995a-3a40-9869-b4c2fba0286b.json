@@ -135,9 +135,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2024-12-05 04:45:55 +0000",
       "log_spam_fixer": "2024-12-05 02:55:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -319,6 +320,18 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-05 04:26:46 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2024-12-05 04:43:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 04:43:40 +0000"
     },
     "done": true
   },

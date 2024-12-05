@@ -910,3 +910,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 04:35:24.009] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
 [05Dec2024 04:36:58.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias drowned whilst trying to escape Skeleton
 [05Dec2024 04:36:58.895] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 04:43:40.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has reached the goal [Hunted]
+[05Dec2024 04:43:40.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Ashes 'n Bones]
+[05Dec2024 04:47:03.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Quite the Renovation]
+[05Dec2024 04:47:19.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Zombie
+[05Dec2024 04:47:19.240] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 04:47:41.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [It Belongs in a Museum]
+[05Dec2024 04:47:45.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Once Upon a Cave]
+[05Dec2024 04:48:36.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gusta20delcongo> -13 11
