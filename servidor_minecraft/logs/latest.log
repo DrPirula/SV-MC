@@ -926,3 +926,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 23:32:13.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa was slain by mufinmatias
 [05Dec2024 23:32:13.256] [Server thread/INFO] [tombstone/]: The player JorgeTheDogJa has successfully been saved
 [05Dec2024 23:32:15.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Funeral Theft]
+[05Dec2024 23:32:40.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mufinmatias moved wrongly!
+[05Dec2024 23:32:47.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[05Dec2024 23:33:39.186] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/61398, l='ServerLevel[world]', x=-375.58, y=-256.00, z=60.11] died, message: 'Villager was killed'

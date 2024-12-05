@@ -506,6 +506,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 23:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2024-12-05 22:59:07 +0000"
