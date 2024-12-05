@@ -918,3 +918,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 04:47:41.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [It Belongs in a Museum]
 [05Dec2024 04:47:45.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Once Upon a Cave]
 [05Dec2024 04:48:36.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gusta20delcongo> -13 11
+[05Dec2024 04:49:54.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Vex
+[05Dec2024 04:49:54.777] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 04:50:29.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo blew up
+[05Dec2024 04:50:29.905] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 04:51:22.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Kex the Mean
+[05Dec2024 04:51:22.151] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 04:51:45.397] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Kex the Mean'/1336, l='ServerLevel[world]', x=56.11, y=39.42, z=-4.60] died: Kex the Mean was slain by mufinmatias
+[05Dec2024 04:53:45.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo drowned
+[05Dec2024 04:53:45.233] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 04:55:32.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Lorem Ipsum]
+[05Dec2024 04:55:54.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo drowned
+[05Dec2024 04:55:54.628] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 04:58:32.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Spider
+[05Dec2024 04:58:32.979] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
