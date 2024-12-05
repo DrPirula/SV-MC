@@ -698,3 +698,56 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 03:34:20.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa was shot by Skeleton
 [05Dec2024 03:34:20.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [Your First Grave]
 [05Dec2024 03:34:20.489] [Server thread/INFO] [tombstone/]: The player JorgeTheDogJa has successfully been saved
+[05Dec2024 03:34:37.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has reached the goal [Here They Come]
+[05Dec2024 03:34:43.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8806ms or 176 ticks behind
+[05Dec2024 03:34:46.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has reached the goal [Chain Death]
+[05Dec2024 03:34:46.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Vindicator
+[05Dec2024 03:34:46.386] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 03:35:01.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JorgeTheDogJa moved too quickly! 9.348064080115734,-2.276624546178404,-3.0515207184253654
+[05Dec2024 03:35:03.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5272ms or 105 ticks behind
+[05Dec2024 03:35:27.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9515ms or 190 ticks behind
+[05Dec2024 03:36:02.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Vex
+[05Dec2024 03:36:02.639] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 03:36:07.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25115ms or 502 ticks behind
+[05Dec2024 03:36:28.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Vex
+[05Dec2024 03:36:28.214] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 03:36:48.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26075ms or 521 ticks behind
+[05Dec2024 03:36:49.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Amateur Archaeologist]
+[05Dec2024 03:36:51.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [It Belongs in a Museum]
+[05Dec2024 03:36:52.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [The Beginning of An Adventure]
+[05Dec2024 03:36:52.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Fallen Sorcerer]
+[05Dec2024 03:36:52.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Vex
+[05Dec2024 03:36:53.056] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 03:37:18.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14259ms or 285 ticks behind
+[05Dec2024 03:37:20.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Vex
+[05Dec2024 03:37:20.372] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 03:37:26.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [Cobweb Entanglement]
+[05Dec2024 03:37:41.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was shot by Skeleton
+[05Dec2024 03:37:41.249] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 03:39:11.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa was shot by Skeleton
+[05Dec2024 03:39:11.200] [Server thread/INFO] [tombstone/]: The player JorgeTheDogJa has successfully been saved
+[05Dec2024 03:40:31.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [Monster Hunter]
+[05Dec2024 03:40:49.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Getting an Upgrade]
+[05Dec2024 03:40:49.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Suit Up]
+[05Dec2024 03:40:52.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Acquire Hardware]
+[05Dec2024 03:40:55.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was shot by Skeleton
+[05Dec2024 03:40:55.150] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 03:41:33.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias fell from a high place
+[05Dec2024 03:41:33.684] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 03:42:41.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[05Dec2024 03:43:01.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5319ms or 106 ticks behind
+[05Dec2024 03:43:22.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5857ms or 117 ticks behind
+[05Dec2024 03:43:45.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7539ms or 150 ticks behind
+[05Dec2024 03:44:07.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7140ms or 142 ticks behind
+[05Dec2024 03:44:27.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4930ms or 98 ticks behind
+[05Dec2024 03:45:18.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was shot by Skeleton
+[05Dec2024 03:45:18.973] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 03:45:36.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[05Dec2024 03:45:55.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05Dec2024 03:46:16.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[05Dec2024 03:46:24.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mufinmatias lost connection: Timed out
+[05Dec2024 03:46:24.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias left the game
+[05Dec2024 03:47:03.746] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d3319b3[id=<null>,name=mufinmatias,properties={},legacy=false] (/127.110.165.175:42089) lost connection: Disconnected
+[05Dec2024 03:47:15.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mufinmatias[/127.110.165.175:53511] logged in with entity id 9623 at (221.55754181424768, 11.0, -36.95899526250279)
+[05Dec2024 03:47:15.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias joined the game
+[05Dec2024 03:47:17.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
