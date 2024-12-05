@@ -187,6 +187,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-05 04:05:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-05 03:40:49 +0000"
@@ -213,7 +219,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:vindicator": "2024-12-05 03:29:48 +0000"
+      "minecraft:vindicator": "2024-12-05 03:29:48 +0000",
+      "minecraft:zombie": "2024-12-05 04:03:10 +0000"
     },
     "done": false
   },
