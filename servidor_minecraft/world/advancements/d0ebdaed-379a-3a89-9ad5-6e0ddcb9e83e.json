@@ -23,6 +23,18 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-12-05 04:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-05 04:14:55 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2024-12-05 03:27:27 +0000"
@@ -50,6 +62,12 @@
   "dungeons_arise:find_mushroom_mines": {
     "criteria": {
       "location0": "2024-12-05 03:36:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 04:12:05 +0000"
     },
     "done": true
   },
@@ -98,6 +116,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-05 03:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-05 04:13:32 +0000"
     },
     "done": true
   },

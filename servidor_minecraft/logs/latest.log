@@ -834,3 +834,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 04:05:15.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Alex's Caves]
 [05Dec2024 04:05:33.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has reached the goal [Fortuitous Militia]
 [05Dec2024 04:05:36.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Stone Age]
+[05Dec2024 04:07:58.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[05Dec2024 04:08:10.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was doomed to fall by Provoker
+[05Dec2024 04:08:10.507] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 04:08:16.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2190ms or 43 ticks behind
+[05Dec2024 04:09:58.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Vex
+[05Dec2024 04:09:58.450] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 04:10:18.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Evoker
+[05Dec2024 04:10:18.546] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 04:10:35.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Vex
+[05Dec2024 04:10:35.195] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 04:10:40.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa was slain by Evoker
+[05Dec2024 04:10:40.278] [Server thread/INFO] [tombstone/]: The player JorgeTheDogJa has successfully been saved
+[05Dec2024 04:11:10.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was killed by magic
+[05Dec2024 04:11:10.520] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 04:12:05.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [Ambush]
+[05Dec2024 04:12:05.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [Suit Up]
+[05Dec2024 04:12:26.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Cover Me with Diamonds]
+[05Dec2024 04:13:32.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [Acquire Hardware]
+[05Dec2024 04:13:59.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Not Today, Thank You]
+[05Dec2024 04:14:55.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [Not Today, Thank You]
+[05Dec2024 04:15:11.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Sweet Dreams]
+[05Dec2024 04:15:24.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Sweet Dreams]
+[05Dec2024 04:15:58.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa was slain by Zombie
+[05Dec2024 04:15:58.463] [Server thread/INFO] [tombstone/]: The player JorgeTheDogJa has successfully been saved
+[05Dec2024 04:16:24.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has reached the goal [Chain Death]
+[05Dec2024 04:16:24.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa was slain by Zombie
+[05Dec2024 04:16:24.241] [Server thread/INFO] [tombstone/]: The player JorgeTheDogJa has successfully been saved
+[05Dec2024 04:17:20.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [A Strange Grave Dust]
+[05Dec2024 04:17:30.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa was shot by Skeleton
+[05Dec2024 04:17:30.189] [Server thread/INFO] [tombstone/]: The player JorgeTheDogJa has successfully been saved

@@ -184,6 +184,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:vindicator": "2024-12-05 03:29:56 +0000",
+      "minecraft:evoker": "2024-12-05 04:10:51 +0000",
       "minecraft:zombie": "2024-12-05 03:40:08 +0000"
     },
     "done": false
@@ -293,13 +294,38 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-05 04:03:22 +0000",
+      "golden_apple": "2024-12-05 04:08:04 +0000",
       "rotten_flesh": "2024-12-05 03:57:18 +0000"
     },
     "done": false
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-05 04:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2024-12-05 04:03:47 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2024-12-05 04:10:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-05 04:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-05 04:15:11 +0000"
     },
     "done": true
   },
