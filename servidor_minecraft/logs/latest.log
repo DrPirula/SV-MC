@@ -873,3 +873,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 23:10:19.677] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -256 -56 -816 in 1s
 [05Dec2024 23:10:47.834] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50146, l='ServerLevel[world]', x=-368.50, y=68.06, z=33.50] died, message: 'Villager was killed'
 [05Dec2024 23:11:06.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50269, l='ServerLevel[world]', x=-375.60, y=-256.00, z=60.04] died, message: 'Villager was killed'
+[05Dec2024 23:14:09.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa was slain by Skeleton
+[05Dec2024 23:14:09.474] [Server thread/INFO] [tombstone/]: The player JorgeTheDogJa has successfully been saved
+[05Dec2024 23:14:40.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [The Most Useful Key]
+[05Dec2024 23:14:48.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has reached the goal [A Fast Comeback]
+[05Dec2024 23:15:06.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by mufinmatias
+[05Dec2024 23:15:06.351] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 23:15:11.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [Ice Bucket Challenge]
+[05Dec2024 23:15:36.807] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/32554, l='ServerLevel[world]', x=-372.70, y=72.94, z=80.70] died, message: 'Scribe was slain by Zombie Bruiser'
+[05Dec2024 23:15:57.805] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/32550, l='ServerLevel[world]', x=-397.49, y=71.95, z=45.30] died, message: 'Farmer was slain by Zombie'
+[05Dec2024 23:16:29.344] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/32552, l='ServerLevel[world]', x=-431.21, y=71.00, z=85.00] died, message: 'Toolsmith was burnt to a crisp whilst fighting Savannah Zombie'
+[05Dec2024 23:16:35.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Mutual Aid]
+[05Dec2024 23:17:08.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Elephant
+[05Dec2024 23:17:08.981] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 23:17:24.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa was doomed to fall
+[05Dec2024 23:17:24.280] [Server thread/INFO] [tombstone/]: The player JorgeTheDogJa has successfully been saved
+[05Dec2024 23:17:27.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Elephant
+[05Dec2024 23:17:27.430] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 23:17:37.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Knowledge raises the soul]
+[05Dec2024 23:20:06.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Rotten to the Core]
+[05Dec2024 23:22:11.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
