@@ -881,3 +881,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 04:27:34.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was shot by Skeleton
 [05Dec2024 04:27:34.143] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
 [05Dec2024 04:28:14.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has reached the goal [Fortuitous Militia]
+[05Dec2024 04:28:49.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was shot by Skeleton
+[05Dec2024 04:28:49.097] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 04:29:39.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Spider
+[05Dec2024 04:29:39.537] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 04:30:01.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo was kicked for floating too long!
+[05Dec2024 04:30:01.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo lost connection: Flying is not enabled on this server
+[05Dec2024 04:30:01.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo left the game
+[05Dec2024 04:30:07.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was blown up by Intruder
+[05Dec2024 04:30:07.868] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 04:30:43.038] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e5b722b[id=<null>,name=gusta20delcongo,properties={},legacy=false] (/127.86.201.57:58885) lost connection: Disconnected
+[05Dec2024 04:30:58.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gusta20delcongo[/127.86.201.57:53817] logged in with entity id 29190 at (11.766440059906287, -14.675233084911524, 0.39972832699874145)
+[05Dec2024 04:30:58.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo joined the game
+[05Dec2024 04:30:59.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JorgeTheDogJa lost connection: Disconnected
+[05Dec2024 04:30:59.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa left the game
+[05Dec2024 04:32:22.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Chest Slayer]
+[05Dec2024 04:32:34.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo hit the ground too hard whilst trying to escape Huntsman
+[05Dec2024 04:32:34.190] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 04:33:04.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo was kicked for floating too long!
+[05Dec2024 04:33:04.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo lost connection: Flying is not enabled on this server
+[05Dec2024 04:33:04.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo left the game
+[05Dec2024 04:33:26.894] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gusta20delcongo[/127.86.201.57:46251] logged in with entity id 29866 at (10.831247468353912, -14.850010165808461, 4.536631646701546)
+[05Dec2024 04:33:26.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo joined the game
+[05Dec2024 04:34:31.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Vampire Slayer]
+[05Dec2024 04:34:35.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was burnt to a crisp whilst fighting Sprinter
+[05Dec2024 04:34:35.728] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 04:35:23.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias blew up
+[05Dec2024 04:35:24.009] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 04:36:58.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias drowned whilst trying to escape Skeleton
+[05Dec2024 04:36:58.895] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
