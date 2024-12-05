@@ -671,3 +671,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 21:56:17.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2987ms or 59 ticks behind
 [05Dec2024 21:56:59.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Zombie
 [05Dec2024 21:56:59.309] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 21:59:37.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[05Dec2024 22:01:32.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Vampire Slayer]
+[05Dec2024 22:03:28.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was blown up by Intruder
+[05Dec2024 22:03:28.607] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 22:04:10.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo moved wrongly!
+[05Dec2024 22:04:10.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo moved wrongly!
+[05Dec2024 22:06:41.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mufinmatias[/127.240.168.219:52097] logged in with entity id 8195 at (960.9250000119209, 111.0, 951.554138373212)
+[05Dec2024 22:06:41.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias joined the game
+[05Dec2024 22:06:45.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4345ms or 86 ticks behind
+[05Dec2024 22:07:08.769] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Antique Ink'/8642, l='ServerLevel[world]', x=762.65, y=-18.00, z=855.43]
+[05Dec2024 22:07:10.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9855ms or 197 ticks behind
+[05Dec2024 22:07:19.131] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/7232, l='ServerLevel[world]', x=-423.53, y=80.00, z=19.47] died, message: 'Farmer was slain by Decaying Zombie'
+[05Dec2024 22:07:38.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13371ms or 267 ticks behind
+[05Dec2024 22:08:07.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13334ms or 266 ticks behind
+[05Dec2024 22:08:28.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6172ms or 123 ticks behind
+[05Dec2024 22:08:46.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3513ms or 70 ticks behind
+[05Dec2024 22:08:49.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Cyclops
+[05Dec2024 22:08:49.779] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[05Dec2024 22:08:56.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo moved too quickly! 0.0830611661765488,-10.100000178814014,0.003797387428043919
+[05Dec2024 22:09:10.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8428ms or 168 ticks behind
+[05Dec2024 22:09:28.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3176ms or 63 ticks behind
+[05Dec2024 22:09:45.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[05Dec2024 22:09:48.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Cyclops
+[05Dec2024 22:09:48.565] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved

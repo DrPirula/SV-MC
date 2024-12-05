@@ -402,5 +402,17 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-05 22:06:06 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2024-12-05 22:01:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
