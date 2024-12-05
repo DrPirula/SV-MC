@@ -858,3 +858,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 22:57:52.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was killed by Savannah Zombie using magic
 [05Dec2024 22:57:52.569] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
 [05Dec2024 22:59:07.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [The Parrots and the Bats]
+[05Dec2024 23:02:14.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [Cover Me with Diamonds]
+[05Dec2024 23:02:39.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa was slain by Skeleton
+[05Dec2024 23:02:40.026] [Server thread/INFO] [tombstone/]: The player JorgeTheDogJa has successfully been saved
+[05Dec2024 23:03:30.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Skeleton
+[05Dec2024 23:03:30.730] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[05Dec2024 23:05:33.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa was slain by Skeleton
+[05Dec2024 23:05:33.755] [Server thread/INFO] [tombstone/]: The player JorgeTheDogJa has successfully been saved
+[05Dec2024 23:06:59.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [The Song of the Dragons]
+[05Dec2024 23:07:39.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Dragon Commander]
+[05Dec2024 23:09:04.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa was slain by Skeleton
+[05Dec2024 23:09:04.289] [Server thread/INFO] [tombstone/]: The player JorgeTheDogJa has successfully been saved
+[05Dec2024 23:10:17.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [The Journey Begins]
+[05Dec2024 23:10:19.677] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -256 -56 -816 in 1s
+[05Dec2024 23:10:47.834] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50146, l='ServerLevel[world]', x=-368.50, y=68.06, z=33.50] died, message: 'Villager was killed'
+[05Dec2024 23:11:06.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50269, l='ServerLevel[world]', x=-375.60, y=-256.00, z=60.04] died, message: 'Villager was killed'
