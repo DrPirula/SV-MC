@@ -128,9 +128,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2024-12-05 03:56:59 +0000",
+      "minecraft:sunflower_plains": "2024-12-05 23:47:26 +0000",
       "minecraft:beach": "2024-12-05 23:28:45 +0000",
       "minecraft:river": "2024-12-05 03:33:27 +0000",
       "minecraft:forest": "2024-12-05 03:28:41 +0000",
+      "minecraft:flower_forest": "2024-12-05 23:44:16 +0000",
       "minecraft:savanna": "2024-12-05 03:27:29 +0000",
       "minecraft:plains": "2024-12-05 03:47:02 +0000"
     },
@@ -351,6 +353,12 @@
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2024-12-05 22:31:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-05 23:48:24 +0000"
     },
     "done": true
   },

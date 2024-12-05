@@ -127,9 +127,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2024-12-05 23:47:21 +0000",
       "minecraft:savanna_plateau": "2024-12-05 05:21:46 +0000",
       "minecraft:river": "2024-12-05 03:39:14 +0000",
       "minecraft:forest": "2024-12-05 03:28:42 +0000",
+      "minecraft:flower_forest": "2024-12-05 23:44:15 +0000",
       "minecraft:meadow": "2024-12-05 22:09:17 +0000",
       "minecraft:savanna": "2024-12-05 02:45:28 +0000",
       "minecraft:plains": "2024-12-05 05:10:45 +0000"
@@ -440,6 +442,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-05 23:48:24 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-05 22:54:21 +0000"
@@ -452,9 +460,21 @@
     },
     "done": false
   },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2024-12-05 23:44:39 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2024-12-05 22:45:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-05 23:49:29 +0000"
     },
     "done": true
   },

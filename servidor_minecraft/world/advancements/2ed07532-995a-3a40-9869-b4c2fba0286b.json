@@ -127,9 +127,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2024-12-05 23:47:17 +0000",
       "minecraft:river": "2024-12-05 03:33:45 +0000",
       "minecraft:forest": "2024-12-05 03:28:41 +0000",
-      "minecraft:savanna": "2024-12-05 02:55:17 +0000"
+      "minecraft:flower_forest": "2024-12-05 23:44:22 +0000",
+      "minecraft:savanna": "2024-12-05 02:55:17 +0000",
+      "minecraft:plains": "2024-12-05 23:43:11 +0000"
     },
     "done": false
   },
@@ -284,7 +287,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-12-05 04:15:39 +0000"
+      "bread": "2024-12-05 04:15:39 +0000",
+      "cooked_chicken": "2024-12-05 23:42:06 +0000"
     },
     "done": false
   },
@@ -409,6 +413,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-05 23:48:20 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-05 22:56:43 +0000"
@@ -424,6 +434,12 @@
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2024-12-05 22:06:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-05 23:49:52 +0000"
     },
     "done": true
   },
