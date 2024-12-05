@@ -129,7 +129,8 @@
     "criteria": {
       "minecraft:river": "2024-12-05 03:39:14 +0000",
       "minecraft:forest": "2024-12-05 03:28:42 +0000",
-      "minecraft:savanna": "2024-12-05 02:45:28 +0000"
+      "minecraft:savanna": "2024-12-05 02:45:28 +0000",
+      "minecraft:plains": "2024-12-05 05:10:45 +0000"
     },
     "done": false
   },
@@ -299,6 +300,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-05 05:11:54 +0000",
       "cooked_beef": "2024-12-05 04:24:25 +0000",
       "bread": "2024-12-05 04:03:22 +0000",
       "golden_apple": "2024-12-05 04:08:04 +0000",
@@ -336,6 +338,12 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-05 04:17:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-05 05:14:56 +0000"
     },
     "done": true
   },

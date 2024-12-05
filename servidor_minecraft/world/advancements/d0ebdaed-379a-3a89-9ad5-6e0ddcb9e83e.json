@@ -319,5 +319,23 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-05 05:12:17 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "magical_eye": "2024-12-05 05:14:01 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2024-12-05 05:14:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
