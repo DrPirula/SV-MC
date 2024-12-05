@@ -186,7 +186,8 @@
       "minecraft:skeleton": "2024-12-05 04:27:13 +0000",
       "minecraft:vindicator": "2024-12-05 03:29:48 +0000",
       "minecraft:spider": "2024-12-05 04:34:33 +0000",
-      "minecraft:zombie": "2024-12-05 04:03:10 +0000"
+      "minecraft:zombie": "2024-12-05 04:03:10 +0000",
+      "minecraft:zombie_villager": "2024-12-05 05:20:22 +0000"
     },
     "done": false
   },
@@ -294,6 +295,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2024-12-05 05:32:06 +0000",
       "in_better_monster_room": "2024-12-05 04:23:49 +0000"
     },
     "done": false
@@ -328,15 +330,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_book": {
+  "tombstone:adventure/ashes_and_bones": {
     "criteria": {
-      "cave_book": "2024-12-05 04:47:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2024-12-05 05:16:07 +0000"
+      "coded_trigger": "2024-12-05 04:43:40 +0000"
     },
     "done": true
   },
@@ -346,15 +342,63 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-05 04:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-05 05:12:42 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "coded_trigger": "2024-12-05 04:43:40 +0000"
+      "diamond_chestplate": "2024-12-05 05:16:07 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "magical_eye": "2024-12-05 05:19:11 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2024-12-05 05:19:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-05 05:26:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2024-12-05 05:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-05 05:28:24 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-05 05:32:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-05 21:53:11 +0000"
     },
     "done": true
   },
