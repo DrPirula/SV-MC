@@ -197,6 +197,7 @@
       "minecraft:vindicator": "2024-12-05 03:29:48 +0000",
       "minecraft:spider": "2024-12-05 04:34:33 +0000",
       "minecraft:creeper": "2024-12-05 23:57:50 +0000",
+      "minecraft:wither_skeleton": "2024-12-06 22:58:27 +0000",
       "minecraft:husk": "2024-12-05 23:02:10 +0000",
       "minecraft:silverfish": "2024-12-06 01:05:18 +0000",
       "minecraft:zombie": "2024-12-05 04:03:10 +0000",
@@ -297,6 +298,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-05 04:15:39 +0000",
+      "golden_apple": "2024-12-06 22:45:51 +0000",
       "cooked_chicken": "2024-12-05 23:42:06 +0000"
     },
     "done": false
@@ -524,11 +526,35 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "requirement": "2024-12-06 22:44:46 +0000"
+      "minecraft:nether_wastes": "2024-12-06 22:57:53 +0000"
     },
     "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-12-06 22:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-06 22:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-06 22:57:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2024-12-06 22:59:30 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/christmas": {
     "criteria": {
@@ -551,6 +577,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2024-12-06 22:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-06 22:58:16 +0000"
     },
     "done": true
   },
