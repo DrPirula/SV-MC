@@ -471,9 +471,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2024-12-06 00:21:48 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cooked_dinosaur_chop": {
     "criteria": {
       "cooked_dinosaur_chop": "2024-12-05 23:58:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2024-12-06 00:40:09 +0000"
     },
     "done": true
   },
@@ -525,9 +537,27 @@
     },
     "done": true
   },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry": "2024-12-06 00:28:48 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_aquatic_life": {
     "criteria": {
       "has_magic_scroll": "2024-12-06 00:15:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 00:36:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-06 00:22:44 +0000"
     },
     "done": true
   },
@@ -564,6 +594,12 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-12-05 23:55:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-06 00:36:36 +0000"
     },
     "done": true
   },

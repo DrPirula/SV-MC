@@ -127,10 +127,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "quark:glimmering_weald": "2024-12-06 00:22:53 +0000",
       "minecraft:sunflower_plains": "2024-12-05 23:47:17 +0000",
       "minecraft:river": "2024-12-05 03:33:45 +0000",
       "minecraft:forest": "2024-12-05 03:28:41 +0000",
       "minecraft:flower_forest": "2024-12-05 23:44:22 +0000",
+      "minecraft:frozen_peaks": "2024-12-06 00:34:45 +0000",
+      "minecraft:deep_dark": "2024-12-06 00:23:04 +0000",
       "minecraft:savanna": "2024-12-05 02:55:17 +0000",
       "minecraft:plains": "2024-12-05 23:43:11 +0000"
     },
@@ -402,6 +405,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-06 00:23:04 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:nowyouknow": {
     "criteria": {
       "nowyouknow": "2024-12-05 22:24:14 +0000"
@@ -423,6 +432,12 @@
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2024-12-05 23:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-06 00:23:02 +0000"
     },
     "done": true
   },
@@ -453,6 +468,12 @@
   "alexscaves:alexscaves/limestone": {
     "criteria": {
       "limestone": "2024-12-05 23:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-06 00:24:11 +0000"
     },
     "done": true
   },
