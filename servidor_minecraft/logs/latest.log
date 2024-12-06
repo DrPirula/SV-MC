@@ -9,3 +9,41 @@
 [06Dec2024 00:03:27.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18057ms or 361 ticks behind
 [06Dec2024 00:03:28.205] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [06Dec2024 00:03:28.205] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[06Dec2024 00:03:58.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16392ms or 327 ticks behind
+[06Dec2024 00:04:02.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [Life Finds A Way]
+[06Dec2024 00:04:22.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8915ms or 178 ticks behind
+[06Dec2024 00:04:41.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4302ms or 86 ticks behind
+[06Dec2024 00:05:01.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4805ms or 96 ticks behind
+[06Dec2024 00:05:06.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gusta20delcongo> -76 100a4
+[06Dec2024 00:05:23.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6563ms or 131 ticks behind
+[06Dec2024 00:05:45.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7495ms or 149 ticks behind
+[06Dec2024 00:06:06.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6061ms or 121 ticks behind
+[06Dec2024 00:06:32.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10964ms or 219 ticks behind
+[06Dec2024 00:07:05.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17482ms or 349 ticks behind
+[06Dec2024 00:07:36.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15889ms or 317 ticks behind
+[06Dec2024 00:08:09.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18664ms or 373 ticks behind
+[06Dec2024 00:08:47.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22682ms or 453 ticks behind
+[06Dec2024 00:09:25.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23152ms or 463 ticks behind
+[06Dec2024 00:09:35.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Where Is The Stone Pen?]
+[06Dec2024 00:09:38.776] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-607}
+[06Dec2024 00:09:38.777] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-607}
+[06Dec2024 00:09:38.778] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-607}
+[06Dec2024 00:09:38.779] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-607}
+[06Dec2024 00:09:44.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has reached the goal [Greed may lead to loss]
+[06Dec2024 00:09:48.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JorgeTheDogJa moved too quickly! -0.09302634782886798,2.130906499714534,9.800386633197377
+[06Dec2024 00:09:50.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [When in Rome]
+[06Dec2024 00:09:54.352] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=-571, y=87, z=-485}
+[06Dec2024 00:10:06.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26283ms or 525 ticks behind
+[06Dec2024 00:10:40.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18780ms or 375 ticks behind
+[06Dec2024 00:11:00.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4661ms or 93 ticks behind
+[06Dec2024 00:11:08.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JorgeTheDogJa lost connection: Disconnected
+[06Dec2024 00:11:08.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa left the game
+[06Dec2024 00:11:17.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
+[06Dec2024 00:11:45.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3016ms or 60 ticks behind
+[06Dec2024 00:12:28.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Back to childhood]
+[06Dec2024 00:12:28.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Not even afraid of death]
+[06Dec2024 00:12:55.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[06Dec2024 00:12:58.344] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[06Dec2024 00:13:17.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6964ms or 139 ticks behind
+[06Dec2024 00:13:35.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[06Dec2024 00:13:52.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind

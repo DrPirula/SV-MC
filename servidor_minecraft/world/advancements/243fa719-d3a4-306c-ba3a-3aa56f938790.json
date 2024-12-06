@@ -132,6 +132,8 @@
       "minecraft:river": "2024-12-05 03:39:14 +0000",
       "minecraft:forest": "2024-12-05 03:28:42 +0000",
       "minecraft:flower_forest": "2024-12-05 23:44:15 +0000",
+      "minecraft:frozen_peaks": "2024-12-06 00:04:44 +0000",
+      "minecraft:deep_dark": "2024-12-06 00:04:26 +0000",
       "minecraft:meadow": "2024-12-05 22:09:17 +0000",
       "minecraft:savanna": "2024-12-05 02:45:28 +0000",
       "minecraft:plains": "2024-12-05 05:10:45 +0000"
@@ -396,6 +398,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2024-12-06 00:09:50 +0000",
       "in_better_monster_room": "2024-12-05 04:47:03 +0000"
     },
     "done": false
@@ -439,6 +442,12 @@
   "dungeons_arise:find_merchant_campsite": {
     "criteria": {
       "location0": "2024-12-05 22:14:03 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-06 00:04:26 +0000"
     },
     "done": true
   },
@@ -487,6 +496,12 @@
   "alexscaves:alexscaves/limestone": {
     "criteria": {
       "limestone": "2024-12-05 23:49:29 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-06 00:09:50 +0000"
     },
     "done": true
   },
@@ -544,9 +559,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 00:09:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2024-12-05 23:06:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-06 00:09:35 +0000"
     },
     "done": true
   },
