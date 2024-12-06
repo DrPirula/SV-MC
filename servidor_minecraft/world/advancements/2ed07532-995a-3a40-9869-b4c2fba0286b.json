@@ -127,6 +127,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-06 00:46:18 +0000",
       "quark:glimmering_weald": "2024-12-06 00:22:53 +0000",
       "minecraft:sunflower_plains": "2024-12-05 23:47:17 +0000",
       "minecraft:river": "2024-12-05 03:33:45 +0000",
