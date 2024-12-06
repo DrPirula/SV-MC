@@ -356,6 +356,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-05 23:55:44 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2024-12-05 23:48:24 +0000"
@@ -365,6 +371,12 @@
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2024-12-05 23:00:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-05 23:50:09 +0000"
     },
     "done": true
   },
@@ -419,6 +431,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-05 22:53:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2024-12-05 23:54:52 +0000"
     },
     "done": true
   },
