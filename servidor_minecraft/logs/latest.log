@@ -795,3 +795,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Dec2024 23:22:25.014] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
 [06Dec2024 23:27:31.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [What a Deal!]
 [06Dec2024 23:30:37.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[06Dec2024 23:32:52.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/42256, l='ServerLevel[world]', x=-329.53, y=71.00, z=21.07] died, message: 'Scribe was slain by gusta20delcongo'
+[06Dec2024 23:32:52.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Neighborhood Brawl]
+[06Dec2024 23:38:08.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has reached the goal [Flowers of the Savanna]
+[06Dec2024 23:41:05.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind

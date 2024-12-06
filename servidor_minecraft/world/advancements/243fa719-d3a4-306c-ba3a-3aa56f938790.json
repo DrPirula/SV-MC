@@ -314,6 +314,7 @@
       "cooked_porkchop": "2024-12-05 05:11:54 +0000",
       "cooked_beef": "2024-12-05 04:24:25 +0000",
       "tropical_fish": "2024-12-06 01:07:48 +0000",
+      "pumpkin_pie": "2024-12-06 23:33:23 +0000",
       "bread": "2024-12-05 04:03:22 +0000",
       "golden_apple": "2024-12-05 04:08:04 +0000",
       "rotten_flesh": "2024-12-05 03:57:18 +0000",
@@ -748,6 +749,12 @@
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-06 22:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-06 23:27:31 +0000"
     },
     "done": true
   },
