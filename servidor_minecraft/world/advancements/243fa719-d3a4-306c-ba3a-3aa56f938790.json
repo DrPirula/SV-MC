@@ -144,9 +144,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2024-12-06 01:03:32 +0000",
       "log_spam_fixer": "2024-12-05 02:45:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -466,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-06 00:55:34 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2024-12-05 23:48:24 +0000"
@@ -493,6 +500,12 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-05 22:54:21 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2024-12-06 01:03:27 +0000"
     },
     "done": true
   },
@@ -526,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-06 00:59:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2024-12-05 22:19:35 +0000"
@@ -547,6 +566,12 @@
   "tombstone:adventure/use_aquatic_life": {
     "criteria": {
       "has_magic_scroll": "2024-12-06 00:15:42 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter_0": "2024-12-06 01:02:36 +0000"
     },
     "done": true
   },
