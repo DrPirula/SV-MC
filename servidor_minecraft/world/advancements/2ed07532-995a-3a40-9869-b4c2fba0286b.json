@@ -193,6 +193,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-06 23:13:21 +0000",
       "minecraft:skeleton": "2024-12-05 04:27:13 +0000",
       "minecraft:vindicator": "2024-12-05 03:29:48 +0000",
       "minecraft:spider": "2024-12-05 04:34:33 +0000",
@@ -528,6 +529,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-06 23:15:23 +0000",
       "minecraft:nether_wastes": "2024-12-06 22:57:53 +0000"
     },
     "done": false
@@ -547,6 +549,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-06 22:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-06 23:15:08 +0000"
     },
     "done": true
   },
