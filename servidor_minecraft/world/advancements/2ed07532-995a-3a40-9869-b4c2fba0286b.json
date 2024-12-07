@@ -147,6 +147,7 @@
       "minecraft:warm_ocean": "2024-12-07 02:41:08 +0000",
       "minecraft:flower_forest": "2024-12-05 23:44:22 +0000",
       "minecraft:frozen_peaks": "2024-12-06 00:34:45 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-07 05:24:40 +0000",
       "minecraft:deep_dark": "2024-12-06 00:23:04 +0000",
       "minecraft:meadow": "2024-12-06 01:01:48 +0000",
       "minecraft:savanna": "2024-12-05 02:55:17 +0000",
@@ -315,6 +316,7 @@
       "baked_potato": "2024-12-07 03:44:19 +0000",
       "bread": "2024-12-05 04:15:39 +0000",
       "golden_apple": "2024-12-06 22:45:51 +0000",
+      "melon_slice": "2024-12-07 05:19:53 +0000",
       "golden_carrot": "2024-12-07 00:21:29 +0000",
       "cooked_chicken": "2024-12-05 23:42:06 +0000"
     },
@@ -836,6 +838,12 @@
   "dungeons_arise:find_wishing_well": {
     "criteria": {
       "location0": "2024-12-07 05:15:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2024-12-07 05:24:08 +0000"
     },
     "done": true
   },
