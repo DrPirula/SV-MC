@@ -706,6 +706,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-06 23:43:19 +0000",
       "minecraft:nether_wastes": "2024-12-06 01:12:48 +0000"
     },
     "done": false
@@ -716,15 +717,51 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-06 23:52:07 +0000"
+    },
+    "done": true
+  },
   "twilightforest:giants": {
     "criteria": {
       "pickaxe": "2024-12-06 22:46:40 +0000"
     },
     "done": false
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-06 23:47:58 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2024-12-06 23:43:44 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/sunbird_blessing": {
     "criteria": {
       "all_effects": "2024-12-06 23:02:55 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/bloody_altar": {
+    "criteria": {
+      "requirement": "2024-12-06 23:48:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-06 23:42:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2024-12-06 23:38:08 +0000"
     },
     "done": true
   },
@@ -743,6 +780,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-06 22:56:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-06 23:55:14 +0000"
     },
     "done": true
   },
