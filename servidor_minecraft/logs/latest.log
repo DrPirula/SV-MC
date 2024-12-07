@@ -77,3 +77,36 @@
 [07Dec2024 00:53:10.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Dread Beast
 [07Dec2024 00:53:11.111] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
 [07Dec2024 00:53:13.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[07Dec2024 00:54:28.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Another Brick in the Wall]
+[07Dec2024 00:54:47.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Another Brick in the Wall]
+[07Dec2024 00:55:52.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Dread Scuttler
+[07Dec2024 00:55:53.082] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[07Dec2024 00:55:58.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2904ms or 58 ticks behind
+[07Dec2024 00:56:56.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Dread Scuttler
+[07Dec2024 00:56:56.220] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[07Dec2024 00:57:01.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[07Dec2024 00:57:24.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Dread Beast
+[07Dec2024 00:57:24.327] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[07Dec2024 00:57:25.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Dread Beast
+[07Dec2024 00:57:28.889] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[07Dec2024 00:57:28.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3206ms or 64 ticks behind
+[07Dec2024 00:57:35.255] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97813, l='ServerLevel[world]', x=-228.13, y=129.00, z=-1385.76, removed=DISCARDED]
+[07Dec2024 00:57:35.256] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97813, l='ServerLevel[world]', x=-228.13, y=129.00, z=-1385.76, removed=DISCARDED]
+[07Dec2024 00:57:35.257] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97814, l='ServerLevel[world]', x=-227.96, y=129.00, z=-1386.39, removed=DISCARDED]
+[07Dec2024 00:57:35.257] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97814, l='ServerLevel[world]', x=-227.96, y=129.00, z=-1386.39, removed=DISCARDED]
+[07Dec2024 00:57:35.257] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97815, l='ServerLevel[world]', x=-227.88, y=129.00, z=-1387.32, removed=DISCARDED]
+[07Dec2024 00:57:35.258] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97815, l='ServerLevel[world]', x=-227.88, y=129.00, z=-1387.32, removed=DISCARDED]
+[07Dec2024 00:57:35.258] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97816, l='ServerLevel[world]', x=-226.53, y=129.00, z=-1388.37, removed=DISCARDED]
+[07Dec2024 00:57:35.258] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97816, l='ServerLevel[world]', x=-226.53, y=129.00, z=-1388.37, removed=DISCARDED]
+[07Dec2024 00:57:35.265] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97817, l='ServerLevel[world]', x=-226.29, y=129.00, z=-1386.95, removed=DISCARDED]
+[07Dec2024 00:57:35.266] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97817, l='ServerLevel[world]', x=-226.29, y=129.00, z=-1386.95, removed=DISCARDED]
+[07Dec2024 00:57:35.266] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97818, l='ServerLevel[world]', x=-226.56, y=129.00, z=-1387.01, removed=DISCARDED]
+[07Dec2024 00:57:35.267] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97818, l='ServerLevel[world]', x=-226.56, y=129.00, z=-1387.01, removed=DISCARDED]
+[07Dec2024 00:57:35.267] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97819, l='ServerLevel[world]', x=-226.72, y=129.00, z=-1386.43, removed=DISCARDED]
+[07Dec2024 00:57:35.268] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97819, l='ServerLevel[world]', x=-226.72, y=129.00, z=-1386.43, removed=DISCARDED]
+[07Dec2024 00:57:35.269] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97820, l='ServerLevel[world]', x=-226.97, y=129.00, z=-1387.10, removed=DISCARDED]
+[07Dec2024 00:57:35.270] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97820, l='ServerLevel[world]', x=-226.97, y=129.00, z=-1387.10, removed=DISCARDED]
+[07Dec2024 00:57:47.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3183ms or 63 ticks behind
+[07Dec2024 00:57:56.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Suit Up]
+[07Dec2024 00:59:06.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mufinmatias lost connection: Disconnected
+[07Dec2024 00:59:06.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias left the game
