@@ -185,3 +185,32 @@
 [07Dec2024 01:22:09.007] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97813, l='ServerLevel[world]', x=-228.13, y=129.00, z=-1385.76, removed=DISCARDED]
 [07Dec2024 01:22:21.216] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97820, l='ServerLevel[world]', x=-226.97, y=129.00, z=-1387.10, removed=DISCARDED]
 [07Dec2024 01:22:21.314] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97819, l='ServerLevel[world]', x=-226.72, y=129.00, z=-1386.43, removed=DISCARDED]
+[07Dec2024 01:26:10.169] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97816, l='ServerLevel[world]', x=-226.53, y=129.00, z=-1388.37, removed=DISCARDED]
+[07Dec2024 01:26:13.708] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97817, l='ServerLevel[world]', x=-226.29, y=129.00, z=-1386.95, removed=DISCARDED]
+[07Dec2024 01:26:13.762] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97818, l='ServerLevel[world]', x=-226.56, y=129.00, z=-1387.01, removed=DISCARDED]
+[07Dec2024 01:26:13.815] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97820, l='ServerLevel[world]', x=-226.97, y=129.00, z=-1387.10, removed=DISCARDED]
+[07Dec2024 01:26:15.411] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97815, l='ServerLevel[world]', x=-227.88, y=129.00, z=-1387.32, removed=DISCARDED]
+[07Dec2024 01:26:15.550] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97819, l='ServerLevel[world]', x=-226.72, y=129.00, z=-1386.43, removed=DISCARDED]
+[07Dec2024 01:26:19.018] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97814, l='ServerLevel[world]', x=-227.96, y=129.00, z=-1386.39, removed=DISCARDED]
+[07Dec2024 01:26:19.305] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97813, l='ServerLevel[world]', x=-228.13, y=129.00, z=-1385.76, removed=DISCARDED]
+[07Dec2024 01:26:20.389] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97813, l='ServerLevel[world]', x=-228.13, y=129.00, z=-1385.76, removed=DISCARDED]
+[07Dec2024 01:31:08.413] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-330, y=27, z=-542}
+[07Dec2024 01:31:08.414] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=27, z=-542}
+[07Dec2024 01:31:08.415] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=32, z=-542}
+[07Dec2024 01:34:46.400] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[07Dec2024 01:34:46.600] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
+[07Dec2024 01:34:46.601] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-629}
+[07Dec2024 01:34:46.601] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
+[07Dec2024 01:34:46.601] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-629}
+[07Dec2024 01:34:46.602] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
+[07Dec2024 01:34:46.863] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
+[07Dec2024 01:34:46.865] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-624}
+[07Dec2024 01:34:46.865] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
+[07Dec2024 01:34:46.865] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-624}
+[07Dec2024 01:34:46.865] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
+[07Dec2024 01:34:57.307] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-583}
+[07Dec2024 01:34:57.315] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[07Dec2024 01:34:57.315] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[07Dec2024 01:34:57.492] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-586}
+[07Dec2024 01:34:57.493] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[07Dec2024 01:34:57.493] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
