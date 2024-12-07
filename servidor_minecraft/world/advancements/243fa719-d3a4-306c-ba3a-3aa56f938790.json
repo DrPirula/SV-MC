@@ -888,6 +888,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-07 04:17:39 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2024-12-07 03:57:39 +0000"
@@ -921,6 +927,12 @@
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_familiar_receptacle": "2024-12-07 04:00:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2024-12-07 04:18:51 +0000"
     },
     "done": true
   },
