@@ -1164,3 +1164,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 05:50:05.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/15868, l='ServerLevel[world]', x=-772.53, y=186.50, z=-2844.61] died: Gearling fell from a high place
 [07Dec2024 05:50:06.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/15872, l='ServerLevel[world]', x=-769.66, y=190.00, z=-2846.35] died: Gearling fell from a high place
 [07Dec2024 05:50:53.805] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/15929, l='ServerLevel[world]', x=-765.17, y=190.06, z=-2839.98] died: Gearling fell from a high place
+[07Dec2024 05:53:30.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was shot by Skeleton
+[07Dec2024 05:53:31.207] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[07Dec2024 05:53:34.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[07Dec2024 05:57:49.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Wax Off]
