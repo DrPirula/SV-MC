@@ -1259,3 +1259,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 06:41:46.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
 [07Dec2024 06:42:36.063] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mufinmatias[/127.240.168.219:48461] logged in with entity id 40400 at (-726.451032922867, 69.0, -2777.156744039561)
 [07Dec2024 06:42:36.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias joined the game
+[07Dec2024 06:43:14.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[07Dec2024 06:43:35.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6565ms or 131 ticks behind
+[07Dec2024 06:43:52.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07Dec2024 06:44:46.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Voluntary Exile]
+[07Dec2024 06:45:13.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[07Dec2024 06:46:17.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Best Friends Forever]
+[07Dec2024 06:48:40.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[07Dec2024 06:48:58.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3678ms or 73 ticks behind
+[07Dec2024 06:49:20.314] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44564, l='ServerLevel[world]', x=-419.41, y=65.00, z=-1833.04] died, message: 'Villager suffocated in a wall'
+[07Dec2024 06:49:27.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[07Dec2024 06:49:57.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[07Dec2024 06:50:32.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[07Dec2024 06:50:52.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5403ms or 108 ticks behind
