@@ -258,3 +258,6 @@
 [07Dec2024 01:47:39.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has reached the goal [Home Sweet Home]
 [07Dec2024 01:53:12.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [A Flaming Sword]
 [07Dec2024 01:53:39.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Enchanter]
+[07Dec2024 02:03:04.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Zombie
+[07Dec2024 02:03:05.662] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[07Dec2024 02:05:43.924] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/122267, l='ServerLevel[world]', x=-376.58, y=-256.00, z=59.85] died, message: 'Villager was killed'
