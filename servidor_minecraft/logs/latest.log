@@ -1,387 +1,677 @@
-[07Dec2024 00:00:21.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Corpse Villager
-[07Dec2024 00:00:21.902] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
-[07Dec2024 00:02:02.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Wither Skeleton
-[07Dec2024 00:02:02.842] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
-[07Dec2024 00:02:05.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[07Dec2024 00:02:29.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was doomed to fall by Skeleton
-[07Dec2024 00:02:29.877] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
-[07Dec2024 00:03:05.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3783ms or 75 ticks behind
-[07Dec2024 00:04:01.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Blaze
-[07Dec2024 00:04:01.861] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
-[07Dec2024 00:04:40.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Wither Skeleton
-[07Dec2024 00:04:40.246] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
-[07Dec2024 00:04:49.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[07Dec2024 00:05:25.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [What a Deal!]
-[07Dec2024 00:06:43.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has reached the goal [Great minds think alike]
-[07Dec2024 00:10:57.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was shot by mufinmatias
-[07Dec2024 00:10:58.647] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 00:11:07.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was shot by gusta20delcongo
-[07Dec2024 00:11:07.387] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
-[07Dec2024 00:11:15.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was shot by mufinmatias
-[07Dec2024 00:11:16.604] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 00:20:48.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has reached the goal [Like a bird]
-[07Dec2024 00:21:12.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/79859, l='ServerLevel[world]', x=-367.50, y=68.00, z=35.50] died, message: 'Villager was killed'
-[07Dec2024 00:22:20.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was shot by mufinmatias
-[07Dec2024 00:22:20.792] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 00:22:20.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <gusta20delcongo> -
-[07Dec2024 00:23:56.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has completed the challenge [+PARRY]
-[07Dec2024 00:26:38.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mufinmatias was kicked for floating too long!
-[07Dec2024 00:26:38.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mufinmatias lost connection: Flying is not enabled on this server
-[07Dec2024 00:26:38.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias left the game
-[07Dec2024 00:26:51.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mufinmatias[/127.240.168.219:56787] logged in with entity id 81835 at (-247.63177549562798, 64.9336276862416, -575.8320732709187)
-[07Dec2024 00:26:51.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias joined the game
-[07Dec2024 00:28:23.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[07Dec2024 00:29:27.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has reached the goal [To be or not to be]
-[07Dec2024 00:30:41.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Dragonslayer]
-[07Dec2024 00:31:59.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Mother of Dragons]
-[07Dec2024 00:32:05.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Mother of Dragons]
-[07Dec2024 00:33:02.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[07Dec2024 00:34:02.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[07Dec2024 00:34:21.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4052ms or 81 ticks behind
-[07Dec2024 00:34:40.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4238ms or 84 ticks behind
-[07Dec2024 00:35:00.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4744ms or 94 ticks behind
-[07Dec2024 00:35:18.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3726ms or 74 ticks behind
-[07Dec2024 00:35:38.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4181ms or 83 ticks behind
-[07Dec2024 00:35:55.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2280ms or 45 ticks behind
-[07Dec2024 00:36:14.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4505ms or 90 ticks behind
-[07Dec2024 00:36:35.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5367ms or 107 ticks behind
-[07Dec2024 00:36:54.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3922ms or 78 ticks behind
-[07Dec2024 00:37:17.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8858ms or 177 ticks behind
-[07Dec2024 00:40:11.899] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-80}
-[07Dec2024 00:40:12.083] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-77}
-[07Dec2024 00:40:53.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[07Dec2024 00:41:42.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Ice Bucket Challenge]
-[07Dec2024 00:42:07.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Chattering Teeth]
-[07Dec2024 00:43:26.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[07Dec2024 00:44:35.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mufinmatias moved too quickly! -2.8434381743613244,-6.808529742674921,-6.833849681672518
-[07Dec2024 00:44:35.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
-[07Dec2024 00:45:31.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has reached the goal [Ice Scream]
-[07Dec2024 00:45:47.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has reached the goal [Ice Scream]
-[07Dec2024 00:48:32.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was shot by gusta20delcongo
-[07Dec2024 00:48:32.907] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
-[07Dec2024 00:50:07.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Dread Knight
-[07Dec2024 00:50:07.568] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
-[07Dec2024 00:50:14.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[07Dec2024 00:50:46.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Dread Knight
-[07Dec2024 00:50:46.336] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
-[07Dec2024 00:50:51.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
-[07Dec2024 00:50:55.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Dread Beast
-[07Dec2024 00:50:56.254] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 00:51:24.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Dread Beast
-[07Dec2024 00:51:25.641] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 00:51:26.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
-[07Dec2024 00:51:46.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Dread Beast
-[07Dec2024 00:51:47.698] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 00:51:50.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2702ms or 54 ticks behind
-[07Dec2024 00:52:08.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2708ms or 54 ticks behind
-[07Dec2024 00:53:10.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Dread Beast
-[07Dec2024 00:53:11.111] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 00:53:13.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
-[07Dec2024 00:54:28.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Another Brick in the Wall]
-[07Dec2024 00:54:47.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Another Brick in the Wall]
-[07Dec2024 00:55:52.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Dread Scuttler
-[07Dec2024 00:55:53.082] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
-[07Dec2024 00:55:58.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2904ms or 58 ticks behind
-[07Dec2024 00:56:56.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Dread Scuttler
-[07Dec2024 00:56:56.220] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
-[07Dec2024 00:57:01.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[07Dec2024 00:57:24.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Dread Beast
-[07Dec2024 00:57:24.327] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
-[07Dec2024 00:57:25.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Dread Beast
-[07Dec2024 00:57:28.889] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 00:57:28.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3206ms or 64 ticks behind
-[07Dec2024 00:57:35.255] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97813, l='ServerLevel[world]', x=-228.13, y=129.00, z=-1385.76, removed=DISCARDED]
-[07Dec2024 00:57:35.256] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97813, l='ServerLevel[world]', x=-228.13, y=129.00, z=-1385.76, removed=DISCARDED]
-[07Dec2024 00:57:35.257] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97814, l='ServerLevel[world]', x=-227.96, y=129.00, z=-1386.39, removed=DISCARDED]
-[07Dec2024 00:57:35.257] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97814, l='ServerLevel[world]', x=-227.96, y=129.00, z=-1386.39, removed=DISCARDED]
-[07Dec2024 00:57:35.257] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97815, l='ServerLevel[world]', x=-227.88, y=129.00, z=-1387.32, removed=DISCARDED]
-[07Dec2024 00:57:35.258] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97815, l='ServerLevel[world]', x=-227.88, y=129.00, z=-1387.32, removed=DISCARDED]
-[07Dec2024 00:57:35.258] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97816, l='ServerLevel[world]', x=-226.53, y=129.00, z=-1388.37, removed=DISCARDED]
-[07Dec2024 00:57:35.258] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97816, l='ServerLevel[world]', x=-226.53, y=129.00, z=-1388.37, removed=DISCARDED]
-[07Dec2024 00:57:35.265] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97817, l='ServerLevel[world]', x=-226.29, y=129.00, z=-1386.95, removed=DISCARDED]
-[07Dec2024 00:57:35.266] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97817, l='ServerLevel[world]', x=-226.29, y=129.00, z=-1386.95, removed=DISCARDED]
-[07Dec2024 00:57:35.266] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97818, l='ServerLevel[world]', x=-226.56, y=129.00, z=-1387.01, removed=DISCARDED]
-[07Dec2024 00:57:35.267] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97818, l='ServerLevel[world]', x=-226.56, y=129.00, z=-1387.01, removed=DISCARDED]
-[07Dec2024 00:57:35.267] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97819, l='ServerLevel[world]', x=-226.72, y=129.00, z=-1386.43, removed=DISCARDED]
-[07Dec2024 00:57:35.268] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97819, l='ServerLevel[world]', x=-226.72, y=129.00, z=-1386.43, removed=DISCARDED]
-[07Dec2024 00:57:35.269] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97820, l='ServerLevel[world]', x=-226.97, y=129.00, z=-1387.10, removed=DISCARDED]
-[07Dec2024 00:57:35.270] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97820, l='ServerLevel[world]', x=-226.97, y=129.00, z=-1387.10, removed=DISCARDED]
-[07Dec2024 00:57:47.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3183ms or 63 ticks behind
-[07Dec2024 00:57:56.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Suit Up]
-[07Dec2024 00:59:06.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mufinmatias lost connection: Disconnected
-[07Dec2024 00:59:06.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias left the game
-[07Dec2024 01:05:15.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was doomed to fall by Sucker
-[07Dec2024 01:05:16.487] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 01:05:21.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
-[07Dec2024 01:05:38.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2477ms or 49 ticks behind
-[07Dec2024 01:08:09.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was doomed to fall by Sucker
-[07Dec2024 01:08:11.260] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 01:08:12.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[07Dec2024 01:08:30.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[07Dec2024 01:09:23.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has completed the challenge [Your dad after a night out with his co-workers]
-[07Dec2024 01:10:58.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by The Hunter
-[07Dec2024 01:10:59.479] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 01:11:15.288] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97819, l='ServerLevel[world]', x=-226.72, y=129.00, z=-1386.43, removed=DISCARDED]
-[07Dec2024 01:11:15.289] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97817, l='ServerLevel[world]', x=-226.29, y=129.00, z=-1386.95, removed=DISCARDED]
-[07Dec2024 01:11:15.289] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97818, l='ServerLevel[world]', x=-226.56, y=129.00, z=-1387.01, removed=DISCARDED]
-[07Dec2024 01:11:15.289] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97813, l='ServerLevel[world]', x=-228.13, y=129.00, z=-1385.76, removed=DISCARDED]
-[07Dec2024 01:11:15.290] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97820, l='ServerLevel[world]', x=-226.97, y=129.00, z=-1387.10, removed=DISCARDED]
-[07Dec2024 01:11:15.290] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97814, l='ServerLevel[world]', x=-227.96, y=129.00, z=-1386.39, removed=DISCARDED]
-[07Dec2024 01:11:15.291] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97816, l='ServerLevel[world]', x=-226.53, y=129.00, z=-1388.37, removed=DISCARDED]
-[07Dec2024 01:11:15.291] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97815, l='ServerLevel[world]', x=-227.88, y=129.00, z=-1387.32, removed=DISCARDED]
-[07Dec2024 01:12:51.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by The Hunter
-[07Dec2024 01:12:51.897] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 01:12:58.679] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97813, l='ServerLevel[world]', x=-228.13, y=129.00, z=-1385.76, removed=DISCARDED]
-[07Dec2024 01:12:58.680] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97814, l='ServerLevel[world]', x=-227.96, y=129.00, z=-1386.39, removed=DISCARDED]
-[07Dec2024 01:12:58.680] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97815, l='ServerLevel[world]', x=-227.88, y=129.00, z=-1387.32, removed=DISCARDED]
-[07Dec2024 01:12:58.681] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97816, l='ServerLevel[world]', x=-226.53, y=129.00, z=-1388.37, removed=DISCARDED]
-[07Dec2024 01:12:58.681] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97817, l='ServerLevel[world]', x=-226.29, y=129.00, z=-1386.95, removed=DISCARDED]
-[07Dec2024 01:12:58.682] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97818, l='ServerLevel[world]', x=-226.56, y=129.00, z=-1387.01, removed=DISCARDED]
-[07Dec2024 01:12:58.682] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97819, l='ServerLevel[world]', x=-226.72, y=129.00, z=-1386.43, removed=DISCARDED]
-[07Dec2024 01:12:58.682] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97820, l='ServerLevel[world]', x=-226.97, y=129.00, z=-1387.10, removed=DISCARDED]
-[07Dec2024 01:12:59.119] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97813, l='ServerLevel[world]', x=-228.13, y=129.00, z=-1385.76, removed=DISCARDED]
-[07Dec2024 01:12:59.120] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97814, l='ServerLevel[world]', x=-227.96, y=129.00, z=-1386.39, removed=DISCARDED]
-[07Dec2024 01:12:59.120] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97815, l='ServerLevel[world]', x=-227.88, y=129.00, z=-1387.32, removed=DISCARDED]
-[07Dec2024 01:12:59.120] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97816, l='ServerLevel[world]', x=-226.53, y=129.00, z=-1388.37, removed=DISCARDED]
-[07Dec2024 01:12:59.121] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97817, l='ServerLevel[world]', x=-226.29, y=129.00, z=-1386.95, removed=DISCARDED]
-[07Dec2024 01:12:59.121] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97818, l='ServerLevel[world]', x=-226.56, y=129.00, z=-1387.01, removed=DISCARDED]
-[07Dec2024 01:12:59.122] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97819, l='ServerLevel[world]', x=-226.72, y=129.00, z=-1386.43, removed=DISCARDED]
-[07Dec2024 01:12:59.122] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97820, l='ServerLevel[world]', x=-226.97, y=129.00, z=-1387.10, removed=DISCARDED]
-[07Dec2024 01:13:00.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
-[07Dec2024 01:14:45.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-226, y=-22, z=-1383} BlockPos{x=-225, y=-23, z=-1382}
-[07Dec2024 01:15:13.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=-20, z=-1380} BlockPos{x=-200, y=-18, z=-1381}
-[07Dec2024 01:15:14.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-199, y=-20, z=-1380} BlockPos{x=-200, y=-20, z=-1380}
-[07Dec2024 01:15:14.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-199, y=-20, z=-1380} BlockPos{x=-200, y=-20, z=-1380}
-[07Dec2024 01:15:29.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-204, y=-23, z=-1371} BlockPos{x=-203, y=-24, z=-1370}
-[07Dec2024 01:15:29.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-204, y=-23, z=-1371} BlockPos{x=-203, y=-24, z=-1370}
-[07Dec2024 01:15:29.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-203, y=-24, z=-1370} BlockPos{x=-203, y=-25, z=-1370}
-[07Dec2024 01:15:40.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-196, y=-27, z=-1369} BlockPos{x=-197, y=-28, z=-1371}
-[07Dec2024 01:16:07.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=-29, z=-1364} BlockPos{x=-183, y=-29, z=-1364}
-[07Dec2024 01:16:31.053] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97817, l='ServerLevel[world]', x=-226.29, y=129.00, z=-1386.95, removed=DISCARDED]
-[07Dec2024 01:16:31.100] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97819, l='ServerLevel[world]', x=-226.72, y=129.00, z=-1386.43, removed=DISCARDED]
-[07Dec2024 01:16:31.352] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97818, l='ServerLevel[world]', x=-226.56, y=129.00, z=-1387.01, removed=DISCARDED]
-[07Dec2024 01:16:31.509] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97820, l='ServerLevel[world]', x=-226.97, y=129.00, z=-1387.10, removed=DISCARDED]
-[07Dec2024 01:16:31.811] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97813, l='ServerLevel[world]', x=-228.13, y=129.00, z=-1385.76, removed=DISCARDED]
-[07Dec2024 01:16:32.005] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97816, l='ServerLevel[world]', x=-226.53, y=129.00, z=-1388.37, removed=DISCARDED]
-[07Dec2024 01:16:32.005] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97814, l='ServerLevel[world]', x=-227.96, y=129.00, z=-1386.39, removed=DISCARDED]
-[07Dec2024 01:16:32.250] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97815, l='ServerLevel[world]', x=-227.88, y=129.00, z=-1387.32, removed=DISCARDED]
-[07Dec2024 01:17:56.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Chest Slayer]
-[07Dec2024 01:21:06.904] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97816, l='ServerLevel[world]', x=-226.53, y=129.00, z=-1388.37, removed=DISCARDED]
-[07Dec2024 01:21:06.904] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97817, l='ServerLevel[world]', x=-226.29, y=129.00, z=-1386.95, removed=DISCARDED]
-[07Dec2024 01:21:06.958] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97818, l='ServerLevel[world]', x=-226.56, y=129.00, z=-1387.01, removed=DISCARDED]
-[07Dec2024 01:21:07.004] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97819, l='ServerLevel[world]', x=-226.72, y=129.00, z=-1386.43, removed=DISCARDED]
-[07Dec2024 01:21:07.005] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97820, l='ServerLevel[world]', x=-226.97, y=129.00, z=-1387.10, removed=DISCARDED]
-[07Dec2024 01:21:07.903] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97815, l='ServerLevel[world]', x=-227.88, y=129.00, z=-1387.32, removed=DISCARDED]
-[07Dec2024 01:21:07.968] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97814, l='ServerLevel[world]', x=-227.96, y=129.00, z=-1386.39, removed=DISCARDED]
-[07Dec2024 01:21:08.007] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97813, l='ServerLevel[world]', x=-228.13, y=129.00, z=-1385.76, removed=DISCARDED]
-[07Dec2024 01:21:48.786] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97816, l='ServerLevel[world]', x=-226.53, y=129.00, z=-1388.37, removed=DISCARDED]
-[07Dec2024 01:22:08.307] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97816, l='ServerLevel[world]', x=-226.53, y=129.00, z=-1388.37, removed=DISCARDED]
-[07Dec2024 01:22:08.404] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97817, l='ServerLevel[world]', x=-226.29, y=129.00, z=-1386.95, removed=DISCARDED]
-[07Dec2024 01:22:08.458] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97818, l='ServerLevel[world]', x=-226.56, y=129.00, z=-1387.01, removed=DISCARDED]
-[07Dec2024 01:22:08.610] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97819, l='ServerLevel[world]', x=-226.72, y=129.00, z=-1386.43, removed=DISCARDED]
-[07Dec2024 01:22:08.610] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97820, l='ServerLevel[world]', x=-226.97, y=129.00, z=-1387.10, removed=DISCARDED]
-[07Dec2024 01:22:08.815] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97815, l='ServerLevel[world]', x=-227.88, y=129.00, z=-1387.32, removed=DISCARDED]
-[07Dec2024 01:22:08.931] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97814, l='ServerLevel[world]', x=-227.96, y=129.00, z=-1386.39, removed=DISCARDED]
-[07Dec2024 01:22:09.007] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97813, l='ServerLevel[world]', x=-228.13, y=129.00, z=-1385.76, removed=DISCARDED]
-[07Dec2024 01:22:21.216] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97820, l='ServerLevel[world]', x=-226.97, y=129.00, z=-1387.10, removed=DISCARDED]
-[07Dec2024 01:22:21.314] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97819, l='ServerLevel[world]', x=-226.72, y=129.00, z=-1386.43, removed=DISCARDED]
-[07Dec2024 01:26:10.169] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97816, l='ServerLevel[world]', x=-226.53, y=129.00, z=-1388.37, removed=DISCARDED]
-[07Dec2024 01:26:13.708] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97817, l='ServerLevel[world]', x=-226.29, y=129.00, z=-1386.95, removed=DISCARDED]
-[07Dec2024 01:26:13.762] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97818, l='ServerLevel[world]', x=-226.56, y=129.00, z=-1387.01, removed=DISCARDED]
-[07Dec2024 01:26:13.815] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97820, l='ServerLevel[world]', x=-226.97, y=129.00, z=-1387.10, removed=DISCARDED]
-[07Dec2024 01:26:15.411] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97815, l='ServerLevel[world]', x=-227.88, y=129.00, z=-1387.32, removed=DISCARDED]
-[07Dec2024 01:26:15.550] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97819, l='ServerLevel[world]', x=-226.72, y=129.00, z=-1386.43, removed=DISCARDED]
-[07Dec2024 01:26:19.018] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97814, l='ServerLevel[world]', x=-227.96, y=129.00, z=-1386.39, removed=DISCARDED]
-[07Dec2024 01:26:19.305] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97813, l='ServerLevel[world]', x=-228.13, y=129.00, z=-1385.76, removed=DISCARDED]
-[07Dec2024 01:26:20.389] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97813, l='ServerLevel[world]', x=-228.13, y=129.00, z=-1385.76, removed=DISCARDED]
-[07Dec2024 01:31:08.413] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-330, y=27, z=-542}
-[07Dec2024 01:31:08.414] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=27, z=-542}
-[07Dec2024 01:31:08.415] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=32, z=-542}
-[07Dec2024 01:34:46.400] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
-[07Dec2024 01:34:46.600] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
-[07Dec2024 01:34:46.601] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-629}
-[07Dec2024 01:34:46.601] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
-[07Dec2024 01:34:46.601] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-629}
-[07Dec2024 01:34:46.602] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
-[07Dec2024 01:34:46.863] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
-[07Dec2024 01:34:46.865] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-624}
-[07Dec2024 01:34:46.865] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
-[07Dec2024 01:34:46.865] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-624}
-[07Dec2024 01:34:46.865] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
-[07Dec2024 01:34:57.307] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-583}
-[07Dec2024 01:34:57.315] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
-[07Dec2024 01:34:57.315] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
-[07Dec2024 01:34:57.492] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-586}
-[07Dec2024 01:34:57.493] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
-[07Dec2024 01:34:57.493] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
-[07Dec2024 01:36:09.186] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-607}
-[07Dec2024 01:37:55.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo moved too quickly! 1.8168036780055559,-10.47532092474751,-0.9104365635312206
-[07Dec2024 01:37:55.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was burnt to a crisp whilst fighting Fire Dragon
-[07Dec2024 01:37:56.464] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 01:37:56.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo moved too quickly! 0.0,-10.806526110009008,-0.4634239952754342
-[07Dec2024 01:38:03.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[07Dec2024 01:38:09.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo was kicked for floating too long!
-[07Dec2024 01:38:09.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo lost connection: Flying is not enabled on this server
-[07Dec2024 01:38:09.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo left the game
-[07Dec2024 01:38:09.934] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[07Dec2024 01:38:32.059] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gusta20delcongo[/127.249.244.170:57039] logged in with entity id 111831 at (-326.5831516422929, 5.198652319573064, -1583.9544960238263)
-[07Dec2024 01:38:32.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo joined the game
-[07Dec2024 01:38:34.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2817ms or 56 ticks behind
-[07Dec2024 01:38:45.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo fell from a high place
-[07Dec2024 01:38:46.815] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 01:40:12.152] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-612}
-[07Dec2024 01:40:12.224] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-612}
-[07Dec2024 01:40:12.225] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-612}
-[07Dec2024 01:40:12.225] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-612}
-[07Dec2024 01:40:12.226] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-612}
-[07Dec2024 01:40:33.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was obliterated by a sonically-charged shriek
-[07Dec2024 01:40:33.884] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 01:40:42.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
-[07Dec2024 01:41:14.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was obliterated by a sonically-charged shriek
-[07Dec2024 01:41:15.505] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 01:41:21.286] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/114866, l='ServerLevel[world]', x=-341.67, y=-18.54, z=-1552.30, removed=DISCARDED]
-[07Dec2024 01:41:24.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2440ms or 48 ticks behind
-[07Dec2024 01:41:47.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has completed the challenge [Phantom Thief]
-[07Dec2024 01:42:55.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-328, y=-55, z=-1610} BlockPos{x=-330, y=-56, z=-1610}
-[07Dec2024 01:43:52.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-358, y=-49, z=-1566} BlockPos{x=-358, y=-45, z=-1567}
-[07Dec2024 01:43:52.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-358, y=-49, z=-1566} BlockPos{x=-358, y=-45, z=-1567}
-[07Dec2024 01:43:52.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-358, y=-49, z=-1566} BlockPos{x=-358, y=-45, z=-1567}
-[07Dec2024 01:43:55.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-359, y=-50, z=-1564} BlockPos{x=-358, y=-49, z=-1565}
-[07Dec2024 01:44:16.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-353, y=-52, z=-1570} BlockPos{x=-354, y=-53, z=-1570}
-[07Dec2024 01:44:22.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-346, y=-52, z=-1566} BlockPos{x=-347, y=-53, z=-1567}
-[07Dec2024 01:44:32.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-354, y=-52, z=-1584} BlockPos{x=-354, y=-52, z=-1585}
-[07Dec2024 01:44:32.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-354, y=-52, z=-1584} BlockPos{x=-354, y=-52, z=-1585}
-[07Dec2024 01:44:32.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-354, y=-52, z=-1584} BlockPos{x=-354, y=-52, z=-1585}
-[07Dec2024 01:44:32.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-354, y=-52, z=-1584} BlockPos{x=-354, y=-52, z=-1585}
-[07Dec2024 01:44:32.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-354, y=-52, z=-1584} BlockPos{x=-354, y=-52, z=-1585}
-[07Dec2024 01:45:06.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-343, y=-53, z=-1601} BlockPos{x=-342, y=-53, z=-1598}
-[07Dec2024 01:47:39.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has reached the goal [Home Sweet Home]
-[07Dec2024 01:53:12.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [A Flaming Sword]
-[07Dec2024 01:53:39.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Enchanter]
-[07Dec2024 02:03:04.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Zombie
-[07Dec2024 02:03:05.662] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 02:05:43.924] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/122267, l='ServerLevel[world]', x=-376.58, y=-256.00, z=59.85] died, message: 'Villager was killed'
-[07Dec2024 02:06:00.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Zombie
-[07Dec2024 02:06:01.122] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 02:06:09.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
-[07Dec2024 02:08:13.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Zombie
-[07Dec2024 02:08:14.572] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 02:21:22.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo lost connection: Timed out
-[07Dec2024 02:21:22.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo left the game
-[07Dec2024 02:21:22.316] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[07Dec2024 02:32:19.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gusta20delcongo[/127.249.244.170:47481] logged in with entity id 126064 at (-373.0550843961178, 68.0, 47.05128688144908)
-[07Dec2024 02:32:19.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo joined the game
-[07Dec2024 02:37:38.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has reached the goal [Great minds think alike]
-[07Dec2024 02:49:23.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Cobweb Entanglement]
-[07Dec2024 02:50:25.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was blown up by Death Worm
-[07Dec2024 02:50:26.263] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
-[07Dec2024 02:50:33.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2929ms or 58 ticks behind
-[07Dec2024 02:51:37.824] [Worker-Main-226/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[07Dec2024 02:51:54.997] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-339}
-[07Dec2024 02:51:54.998] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-327, y=25, z=-340}
-[07Dec2024 02:51:54.998] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-331}
-[07Dec2024 02:51:55.190] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-325, y=31, z=-339}
-[07Dec2024 02:51:55.191] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=26, z=-337}
-[07Dec2024 02:51:55.192] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=26, z=-339}
-[07Dec2024 02:51:55.192] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=25, z=-336}
-[07Dec2024 02:51:55.192] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=25, z=-336}
-[07Dec2024 02:51:55.195] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-298, y=28, z=-334}
-[07Dec2024 02:51:55.195] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=33, z=-333}
-[07Dec2024 02:51:55.394] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=28, z=-334}
-[07Dec2024 02:51:55.394] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=28, z=-335}
-[07Dec2024 02:51:55.395] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=28, z=-334}
-[07Dec2024 02:51:55.395] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=28, z=-329}
-[07Dec2024 02:51:55.395] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=27, z=-329}
-[07Dec2024 02:51:55.395] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=28, z=-331}
-[07Dec2024 02:51:55.396] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-332}
-[07Dec2024 02:51:55.396] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-331}
-[07Dec2024 02:51:55.397] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-333}
-[07Dec2024 02:51:55.815] [Worker-Main-238/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=28, z=-358}
-[07Dec2024 02:51:58.905] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-200, y=35, z=-385}
-[07Dec2024 02:51:58.909] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=31, z=-384}
-[07Dec2024 02:51:58.910] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=31, z=-381}
-[07Dec2024 02:51:58.911] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=31, z=-381}
-[07Dec2024 02:51:58.911] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=26, z=-380}
-[07Dec2024 02:51:58.912] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=26, z=-380}
-[07Dec2024 02:51:58.913] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-198, y=28, z=-384}
-[07Dec2024 02:51:58.914] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=28, z=-380}
-[07Dec2024 02:51:58.915] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-199, y=33, z=-385}
-[07Dec2024 02:51:59.619] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-230, y=26, z=-311}
-[07Dec2024 02:51:59.620] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=26, z=-310}
-[07Dec2024 02:51:59.620] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-232, y=26, z=-312}
-[07Dec2024 02:51:59.621] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-231, y=25, z=-315}
-[07Dec2024 02:51:59.621] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=31, z=-312}
-[07Dec2024 02:52:04.004] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-310}
-[07Dec2024 02:52:04.004] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=26, z=-311}
-[07Dec2024 02:52:04.178] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
-[07Dec2024 02:52:08.289] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=33, z=-388}
-[07Dec2024 02:52:09.571] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=30, z=-333}
-[07Dec2024 02:52:10.127] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
-[07Dec2024 02:52:10.128] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
-[07Dec2024 02:52:10.129] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-335}
-[07Dec2024 02:52:10.129] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-334}
-[07Dec2024 02:52:10.133] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-334}
-[07Dec2024 02:52:10.135] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-333}
-[07Dec2024 02:52:10.135] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-330}
-[07Dec2024 02:52:10.135] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-246, y=27, z=-330}
-[07Dec2024 02:52:14.221] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=27, z=-366}
-[07Dec2024 02:52:14.221] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-363}
-[07Dec2024 02:52:14.221] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-362}
-[07Dec2024 02:52:14.954] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=26, z=-306}
-[07Dec2024 02:52:14.954] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-368, y=26, z=-308}
-[07Dec2024 02:52:14.954] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-367, y=31, z=-310}
-[07Dec2024 02:52:15.265] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-370, y=36, z=-302}
-[07Dec2024 02:52:15.265] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-367, y=31, z=-303}
-[07Dec2024 02:52:20.308] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=30, z=-358}
-[07Dec2024 02:52:21.567] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-361}
-[07Dec2024 02:52:21.940] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-339}
-[07Dec2024 02:52:21.941] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-325, y=31, z=-339}
-[07Dec2024 02:52:21.941] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=26, z=-337}
-[07Dec2024 02:52:21.942] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-327, y=25, z=-340}
-[07Dec2024 02:52:21.942] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=26, z=-339}
-[07Dec2024 02:52:21.942] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=25, z=-336}
-[07Dec2024 02:52:21.942] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=25, z=-336}
-[07Dec2024 02:52:22.016] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-326, y=31, z=-331}
-[07Dec2024 02:52:24.525] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=28, z=-334}
-[07Dec2024 02:52:24.526] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=28, z=-335}
-[07Dec2024 02:52:24.526] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=28, z=-334}
-[07Dec2024 02:52:24.526] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=27, z=-329}
-[07Dec2024 02:52:24.527] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=28, z=-331}
-[07Dec2024 02:52:24.527] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-332}
-[07Dec2024 02:52:24.527] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-331}
-[07Dec2024 02:52:24.528] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-333}
-[07Dec2024 02:52:30.561] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-319, y=25, z=-315}
-[07Dec2024 02:52:30.763] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=26, z=-306}
-[07Dec2024 02:52:30.763] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=26, z=-307}
-[07Dec2024 02:52:30.764] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=31, z=-307}
-[07Dec2024 02:52:31.408] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-298, y=28, z=-334}
-[07Dec2024 02:52:31.416] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=28, z=-329}
-[07Dec2024 02:52:31.416] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=33, z=-333}
-[07Dec2024 02:52:31.418] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=35, z=-340}
-[07Dec2024 02:52:38.480] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-325, y=25, z=-316}
-[07Dec2024 02:52:38.778] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-321, y=31, z=-307}
-[07Dec2024 02:52:38.779] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-321, y=30, z=-307}
-[07Dec2024 02:52:39.566] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=30, z=-334}
-[07Dec2024 02:52:39.567] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=30, z=-338}
-[07Dec2024 02:52:42.845] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-334}
-[07Dec2024 02:52:42.846] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-241, y=27, z=-333}
-[07Dec2024 02:52:42.846] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-330}
-[07Dec2024 02:52:42.846] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-246, y=27, z=-330}
-[07Dec2024 02:52:43.441] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-298, y=28, z=-334}
-[07Dec2024 02:52:43.446] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=28, z=-329}
-[07Dec2024 02:52:43.446] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-297, y=33, z=-333}
-[07Dec2024 02:52:43.478] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
-[07Dec2024 02:52:43.495] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=28, z=-334}
-[07Dec2024 02:52:43.500] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=28, z=-335}
-[07Dec2024 02:52:43.500] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=28, z=-334}
-[07Dec2024 02:52:43.501] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=27, z=-329}
-[07Dec2024 02:52:43.501] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=28, z=-331}
-[07Dec2024 02:52:43.501] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-332}
-[07Dec2024 02:52:43.502] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-331}
-[07Dec2024 02:52:43.502] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=33, z=-333}
-[07Dec2024 02:52:43.560] [Worker-Main-239/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=28, z=-358}
-[07Dec2024 02:52:52.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Mine? Mine? Mine?]
-[07Dec2024 02:52:57.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
-[07Dec2024 02:53:14.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Tie me to the Mast]
-[07Dec2024 02:53:59.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Masquerade]
-[07Dec2024 02:56:15.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/135596, l='ServerLevel[world]', x=35.52, y=97.00, z=719.80] died, message: 'Beekeeper was slain by Sucker'
+[07Dec2024 03:31:18.275] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[07Dec2024 03:31:18.279] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[07Dec2024 03:31:19.670] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[07Dec2024 03:31:19.732] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SV-MC/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[07Dec2024 03:31:20.481] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV-MC/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[07Dec2024 03:31:20.489] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV-MC/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Dec2024 03:31:20.497] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV-MC/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Dec2024 03:31:20.499] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SV-MC/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Dec2024 03:31:21.141] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[07Dec2024 03:31:21.150] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/SV-MC/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.25.jar
+[07Dec2024 03:31:21.151] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: /workspaces/SV-MC/servidor_minecraft/mods/curios-forge-5.9.1+1.20.1.jar
+[07Dec2024 03:31:21.151] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 13 dependencies adding them to mods collection
+[07Dec2024 03:31:27.040] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[07Dec2024 03:31:27.539] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[07Dec2024 03:31:27.567] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Dec2024 03:31:27.779] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Dec2024 03:31:27.780] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Dec2024 03:31:27.810] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Dec2024 03:31:28.076] [main/INFO] [Puzzles Lib/]: Loading 99 mods:
+	- ad_astra 1.15.18
+	- aether 1.20.1-1.2.0-neoforge
+	- aiimprovements 0.5.2
+	- alexscaves 1.1.4
+	- alexsmobs 1.22.8
+	- architectury 9.2.14
+	- artifacts 9.5.7
+	- bagus_lib 1.20.1-4.4.0
+	- betterdeserttemples 1.20-Forge-3.0.3
+	- betterdungeons 1.20-Forge-4.0.3
+	- betterendisland 1.20-Forge-2.0.5
+	- betterfortresses 1.20-Forge-2.0.5
+	- betterjungletemples 1.20-Forge-2.0.4
+	- bettermineshafts 1.20-Forge-4.0.4
+	- bettermobs 1.0.0
+	- betteroceanmonuments 1.20-Forge-3.0.4
+	- betterstrongholds 1.20-Forge-4.0.3
+	- bettervillage 3.1.0
+	- betterwitchhuts 1.20-Forge-3.0.3
+	- born_in_chaos_v1 1.0.0
+	- botarium 2.3.3
+	- brutalbosses 1.20.1-6.8
+	- carryon 2.1.2.7
+	- cataclysm 1.0
+	- citadel 2.5.4
+	- cloth_config 11.1.118
+	- clumps 12.0.0.4
+	- coroutil 1.20.1-1.3.3
+	- cosmeticarmorreworked 1.20.1-v1a
+	- creeperoverhaul 3.0.2
+	- cumulus_menus 1.20.1-1.0.0-neoforge
+	- cupboard 1.20.1-2.5
+	- curios 5.9.1+1.20.1
+	- deeperdarker 1.2.1
+	- dungeons_arise 2.1.58-1.20.x
+	- earthmobsmod 1.20.1-10.3.1
+	- easyanvils 8.0.1
+	- ecologics 2.2.0
+	- eeeabsmobs 1.20.1-0.91
+	- elevatorid 1.20.1-lex-1.9
+	- enchantinginfuser 8.0.2
+	- endermanoverhaul 1.0.3
+	- endrem 5.2.3-R-1.20.1
+	- enemyexpansion 2.3.1
+	- expandability 9.0.4
+	- explorerscompass 1.20.1-1.3.3-forge
+	- ferritecore 6.0.1
+	- forge 47.3.7
+	- friendsandfoes 2.0.10
+	- furnitura 1.12-1.20.1
+	- geckolib 4.4.2
+	- hangglider 8.0.1
+	- iceandfire 2.1.13-1.20.1-beta-4
+	- illagerinvasion 8.0.3
+	- incendium 5.3.5
+	- infernalmobs 1.20.1.2
+	- ironchest 1.20.1-14.4.4
+	- jei 15.3.0.8
+	- libraryferret 4.0.0
+	- luminousworld 1.3.6
+	- minecraft 1.20.1
+	- mixinextras 0.3.5
+	- mixinsquared 0.1.1
+	- moonlight 1.20-2.11.0
+	- mowziesmobs 1.6.4
+	- multimine 1.20.1.3
+	- mutantmonsters 8.0.7
+	- naturalist 4.0.3
+	- naturescompass 1.20.1-1.11.2-forge
+	- nitrogen_internals 1.20.1-1.0.2-neoforge
+	- nullscape 1.2.4
+	- placeablesmod 1.9
+	- polymorph 0.49.2+1.20.1
+	- puzzlesaccessapi 8.0.7
+	- puzzleslib 8.1.17
+	- quark 4.0-438
+	- recipes_unlocked 7.0.0
+	- resourcefulconfig 2.1.2
+	- resourcefullib 2.1.25
+	- securitycraft 1.9.9
+	- sophisticatedbackpacks 3.20.2.1022
+	- sophisticatedcore 0.6.8.567
+	- spectrelib 0.13.14+1.20.1
+	- stalwart_dungeons 1.2.8
+	- supplementaries 1.20-2.8.6
+	- takesapillage 1.0.3
+	- tombstone 8.6.3
+	- torchmaster 20.1.6
+	- twilightforest 4.3.2145
+	- undead_revamp2 1.0.0
+	- vanillaplustools 1.20-1.0
+	- warriorrage 1.0.0
+	- watching 1.9.2
+	- watut 1.20.1-1.0.11
+	- xaerominimap 24.1.1
+	- yungsapi 1.20-Forge-4.0.4
+	- yungsbridges 1.20-Forge-4.0.3
+	- yungsextras 1.20-Forge-4.0.3
+	- zeta 1.0-14
+[07Dec2024 03:31:30.850] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[07Dec2024 03:31:30.850] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[07Dec2024 03:31:32.075] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[07Dec2024 03:31:32.723] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[07Dec2024 03:31:45.541] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[07Dec2024 03:31:45.803] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
+[07Dec2024 03:31:46.237] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: mod instantiated
+[07Dec2024 03:31:46.245] [modloading-worker-0/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMineServer initializing
+[07Dec2024 03:31:47.922] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
+[07Dec2024 03:31:48.840] [modloading-worker-0/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:31:49.036] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[07Dec2024 03:31:49.138] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[07Dec2024 03:31:49.171] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[07Dec2024 03:31:49.188] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[07Dec2024 03:31:49.262] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[07Dec2024 03:31:49.583] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[07Dec2024 03:31:49.601] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[07Dec2024 03:31:49.727] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[07Dec2024 03:31:49.729] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[07Dec2024 03:31:49.730] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[07Dec2024 03:31:49.731] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[07Dec2024 03:31:49.732] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[07Dec2024 03:31:49.735] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[07Dec2024 03:31:49.740] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[07Dec2024 03:31:50.041] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[07Dec2024 03:31:50.042] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[07Dec2024 03:31:53.052] [Thread-2/INFO] [friendsandfoes/]: [Friends&Foes] An update is available! You are using 2.0.10 version, but the latest version is 3.0.6.
+[07Dec2024 03:31:54.482] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 160 modules to load.
+[07Dec2024 03:31:54.482] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
+[07Dec2024 03:31:54.487] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
+[07Dec2024 03:31:54.494] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
+[07Dec2024 03:31:54.495] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
+[07Dec2024 03:31:54.521] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
+[07Dec2024 03:31:54.559] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
+[07Dec2024 03:31:54.560] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
+[07Dec2024 03:31:54.561] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
+[07Dec2024 03:31:54.561] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
+[07Dec2024 03:31:54.568] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
+[07Dec2024 03:31:54.569] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
+[07Dec2024 03:31:54.577] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
+[07Dec2024 03:31:54.585] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
+[07Dec2024 03:31:54.586] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
+[07Dec2024 03:31:54.587] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
+[07Dec2024 03:31:54.600] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
+[07Dec2024 03:31:54.615] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
+[07Dec2024 03:31:54.618] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
+[07Dec2024 03:31:54.621] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
+[07Dec2024 03:31:54.622] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
+[07Dec2024 03:31:54.630] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
+[07Dec2024 03:31:54.631] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
+[07Dec2024 03:31:54.631] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
+[07Dec2024 03:31:54.632] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
+[07Dec2024 03:31:54.634] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
+[07Dec2024 03:31:54.636] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
+[07Dec2024 03:31:54.641] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
+[07Dec2024 03:31:54.644] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
+[07Dec2024 03:31:54.646] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
+[07Dec2024 03:31:54.649] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
+[07Dec2024 03:31:54.650] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
+[07Dec2024 03:31:54.693] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
+[07Dec2024 03:31:54.706] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
+[07Dec2024 03:31:54.707] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
+[07Dec2024 03:31:54.708] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
+[07Dec2024 03:31:54.711] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
+[07Dec2024 03:31:54.712] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
+[07Dec2024 03:31:54.712] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
+[07Dec2024 03:31:54.713] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
+[07Dec2024 03:31:54.721] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
+[07Dec2024 03:31:54.722] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
+[07Dec2024 03:31:54.727] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
+[07Dec2024 03:31:54.727] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
+[07Dec2024 03:31:54.728] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
+[07Dec2024 03:31:54.728] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
+[07Dec2024 03:31:54.729] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
+[07Dec2024 03:31:54.731] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
+[07Dec2024 03:31:54.733] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
+[07Dec2024 03:31:54.733] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
+[07Dec2024 03:31:54.740] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
+[07Dec2024 03:31:54.741] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
+[07Dec2024 03:31:54.744] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
+[07Dec2024 03:31:54.762] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
+[07Dec2024 03:31:54.763] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
+[07Dec2024 03:31:54.770] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
+[07Dec2024 03:31:54.770] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
+[07Dec2024 03:31:54.772] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
+[07Dec2024 03:31:54.773] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
+[07Dec2024 03:31:54.802] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
+[07Dec2024 03:31:54.806] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
+[07Dec2024 03:31:54.808] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
+[07Dec2024 03:31:54.813] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
+[07Dec2024 03:31:54.816] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
+[07Dec2024 03:31:54.818] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
+[07Dec2024 03:31:54.824] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
+[07Dec2024 03:31:54.825] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
+[07Dec2024 03:31:54.827] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
+[07Dec2024 03:31:54.827] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
+[07Dec2024 03:31:54.828] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
+[07Dec2024 03:31:54.828] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
+[07Dec2024 03:31:54.829] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
+[07Dec2024 03:31:54.831] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
+[07Dec2024 03:31:54.832] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
+[07Dec2024 03:31:54.833] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
+[07Dec2024 03:31:54.850] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
+[07Dec2024 03:31:54.853] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
+[07Dec2024 03:31:54.853] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
+[07Dec2024 03:31:54.855] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
+[07Dec2024 03:31:54.857] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
+[07Dec2024 03:31:54.858] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
+[07Dec2024 03:31:54.910] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
+[07Dec2024 03:31:54.913] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
+[07Dec2024 03:31:54.928] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
+[07Dec2024 03:31:54.933] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
+[07Dec2024 03:31:54.941] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
+[07Dec2024 03:31:54.941] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
+[07Dec2024 03:31:54.945] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
+[07Dec2024 03:31:54.946] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
+[07Dec2024 03:31:54.947] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
+[07Dec2024 03:31:54.947] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
+[07Dec2024 03:31:54.952] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
+[07Dec2024 03:31:54.954] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
+[07Dec2024 03:31:54.955] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
+[07Dec2024 03:31:54.955] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
+[07Dec2024 03:31:54.958] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
+[07Dec2024 03:31:54.968] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
+[07Dec2024 03:31:54.973] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
+[07Dec2024 03:31:54.977] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
+[07Dec2024 03:31:54.977] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
+[07Dec2024 03:31:54.977] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
+[07Dec2024 03:31:54.979] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
+[07Dec2024 03:31:54.981] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
+[07Dec2024 03:31:54.984] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
+[07Dec2024 03:31:54.986] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
+[07Dec2024 03:31:54.994] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
+[07Dec2024 03:31:54.997] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
+[07Dec2024 03:31:55.005] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
+[07Dec2024 03:31:55.006] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
+[07Dec2024 03:31:55.007] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
+[07Dec2024 03:31:55.007] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
+[07Dec2024 03:31:55.008] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
+[07Dec2024 03:31:55.011] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
+[07Dec2024 03:31:55.013] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
+[07Dec2024 03:31:55.016] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
+[07Dec2024 03:31:55.017] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
+[07Dec2024 03:31:55.025] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
+[07Dec2024 03:31:55.027] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
+[07Dec2024 03:31:55.027] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
+[07Dec2024 03:31:55.030] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
+[07Dec2024 03:31:55.047] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
+[07Dec2024 03:31:55.050] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
+[07Dec2024 03:31:55.054] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
+[07Dec2024 03:31:55.055] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
+[07Dec2024 03:31:55.057] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
+[07Dec2024 03:31:55.061] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
+[07Dec2024 03:31:55.065] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
+[07Dec2024 03:31:55.067] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
+[07Dec2024 03:31:55.068] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
+[07Dec2024 03:31:55.069] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
+[07Dec2024 03:31:55.070] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
+[07Dec2024 03:31:55.071] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
+[07Dec2024 03:31:55.072] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
+[07Dec2024 03:31:55.075] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
+[07Dec2024 03:31:55.082] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
+[07Dec2024 03:31:55.083] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
+[07Dec2024 03:31:55.083] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
+[07Dec2024 03:31:55.084] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
+[07Dec2024 03:31:55.085] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
+[07Dec2024 03:31:55.087] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
+[07Dec2024 03:31:55.093] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
+[07Dec2024 03:31:55.095] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
+[07Dec2024 03:31:55.096] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
+[07Dec2024 03:31:55.097] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
+[07Dec2024 03:31:55.098] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
+[07Dec2024 03:31:55.098] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
+[07Dec2024 03:31:55.101] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
+[07Dec2024 03:31:55.105] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
+[07Dec2024 03:31:55.135] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
+[07Dec2024 03:31:55.148] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
+[07Dec2024 03:31:55.159] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
+[07Dec2024 03:31:55.161] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
+[07Dec2024 03:31:55.162] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
+[07Dec2024 03:31:55.231] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
+[07Dec2024 03:31:55.232] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
+[07Dec2024 03:31:55.236] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
+[07Dec2024 03:31:55.244] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[07Dec2024 03:31:55.244] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
+[07Dec2024 03:31:55.250] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
+[07Dec2024 03:31:55.251] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
+[07Dec2024 03:31:55.252] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
+[07Dec2024 03:31:55.258] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
+[07Dec2024 03:31:55.258] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 160 modules.
+[07Dec2024 03:31:55.287] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[07Dec2024 03:31:56.366] [main/INFO] [zeta-internal/]: Dispatching ZRegister to 3 listeners
+[07Dec2024 03:31:56.375] [main/INFO] [zeta-internal/]: Dispatching ZRegister$Post to 1 listener
+[07Dec2024 03:31:56.376] [main/INFO] [quark-zeta/]: Dispatching ZRegister to 96 listeners
+[07Dec2024 03:31:57.946] [main/INFO] [quark-zeta/]: Dispatching ZRegister$Post to 6 listeners
+[07Dec2024 03:32:01.919] [main/INFO] [Moonlight/]: Initialized block sets in 21ms
+[07Dec2024 03:32:04.900] [main/INFO] [quark-zeta/]: Dispatching ForgeZEntityAttributeCreation (as ZEntityAttributeCreation) to 7 listeners
+[07Dec2024 03:32:05.250] [main/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:32:05.275] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[07Dec2024 03:32:05.348] [main/INFO] [zeta-internal/]: Dispatching ZConfigChanged to 2 listeners
+[07Dec2024 03:32:05.351] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
+[07Dec2024 03:32:05.398] [main/INFO] [quark-zeta/]: Dispatching ZConfigChanged to 45 listeners
+[07Dec2024 03:32:05.722] [modloading-worker-0/INFO] [bagus_lib/]: Load Bagus Lib Supporter
+[07Dec2024 03:32:06.271] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[07Dec2024 03:32:06.284] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[07Dec2024 03:32:06.308] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
+[07Dec2024 03:32:06.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: OUTDATED Current: 8.0.1 Target: 8.0.2
+[07Dec2024 03:32:06.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[07Dec2024 03:32:06.435] [modloading-worker-0/INFO] [zeta-internal/]: Dispatching ForgeZCommonSetup (as ZCommonSetup) to 2 listeners
+[07Dec2024 03:32:06.437] [modloading-worker-0/INFO] [quark-zeta/]: Dispatching ForgeZCommonSetup (as ZCommonSetup) to 39 listeners
+[07Dec2024 03:32:06.622] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: OUTDATED Current: 1.20.1-1.2.0-neoforge Target: 1.20.1-1.5.1-neoforge
+[07Dec2024 03:32:06.622] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
+[07Dec2024 03:32:06.631] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: OUTDATED Current: 8.0.3 Target: 8.0.6
+[07Dec2024 03:32:06.631] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[07Dec2024 03:32:06.743] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23284!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23284!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[07Dec2024 03:32:06.746] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
+[07Dec2024 03:32:06.756] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[07Dec2024 03:32:06.757] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[07Dec2024 03:32:06.769] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.3 Target: 8.8.6
+[07Dec2024 03:32:06.770] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[07Dec2024 03:32:06.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: OUTDATED Current: 1.20.1-1.0.0-neoforge Target: 1.20.1-1.0.1-neoforge
+[07Dec2024 03:32:06.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[07Dec2024 03:32:06.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: OUTDATED Current: 8.0.2 Target: 8.0.3
+[07Dec2024 03:32:06.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[07Dec2024 03:32:06.862] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[07Dec2024 03:32:06.863] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[07Dec2024 03:32:07.153] [main/INFO] [Moonlight/]: Initialized color sets in 183ms
+[07Dec2024 03:32:07.172] [main/INFO] [zeta-internal/]: Dispatching ZConfigChanged to 2 listeners
+[07Dec2024 03:32:07.176] [main/INFO] [quark-zeta/]: Dispatching ZConfigChanged to 45 listeners
+[07Dec2024 03:32:07.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[07Dec2024 03:32:07.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[07Dec2024 03:32:07.245] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[07Dec2024 03:32:07.246] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07Dec2024 03:32:07.259] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 4, 0, 1, 0, 0, 41, 2] ms
+[07Dec2024 03:32:07.272] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[07Dec2024 03:32:07.275] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[07Dec2024 03:32:07.363] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[07Dec2024 03:32:07.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[07Dec2024 03:32:07.377] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.11.0 Target: null
+[07Dec2024 03:32:07.377] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[07Dec2024 03:32:07.396] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[07Dec2024 03:32:07.399] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[07Dec2024 03:32:07.402] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
+[07Dec2024 03:32:07.408] [modloading-worker-0/INFO] [zeta-internal/]: Dispatching ForgeZLoadComplete (as ZLoadComplete) to 1 listener
+[07Dec2024 03:32:07.424] [modloading-worker-0/INFO] [quark-zeta/]: Dispatching ForgeZLoadComplete (as ZLoadComplete) to 6 listeners
+[07Dec2024 03:32:07.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.9 Target: 1.9.12
+[07Dec2024 03:32:07.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[07Dec2024 03:32:07.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-2.8.6 Target: null
+[07Dec2024 03:32:07.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[07Dec2024 03:32:07.474] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.17 Target: 8.1.25
+[07Dec2024 03:32:07.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Starting version check at https://api.modrinth.com/updates/3ufwT9JF/forge_updates.json
+[07Dec2024 03:32:07.570] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ad_astra] Found status: OUTDATED Current: 1.15.18 Target: 1.15.19
+[07Dec2024 03:32:24.501] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07Dec2024 03:32:36.789] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SV-MC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23283!/assets/.mcassetsroot' uses unexpected schema
+[07Dec2024 03:32:36.791] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SV-MC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23283!/data/.mcassetsroot' uses unexpected schema
+[07Dec2024 03:32:37.059] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 77 ms
+[07Dec2024 03:32:40.274] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[07Dec2024 03:32:40.283] [main/INFO] [com.github.L_Ender.cataclysm.Cataclysm/]: Adding datapack listener altar_of_amethyst_recipes
+[07Dec2024 03:32:40.291] [main/INFO] [zeta-internal/]: Dispatching ForgeZAddReloadListener (as ZAddReloadListener) to 2 listeners
+[07Dec2024 03:32:40.293] [main/INFO] [quark-zeta/]: Dispatching ForgeZAddReloadListener (as ZAddReloadListener) to 2 listeners
+[07Dec2024 03:32:40.294] [main/INFO] [quark-zeta/]: Dispatching AdvancementModifierRegistry$1 (as ZGatherAdvancementModifiers) to 1 listener
+[07Dec2024 03:32:40.713] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.6.3.jar
+[07Dec2024 03:32:41.089] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag alexsmobs:skreechers_can_spawn_wardens as it is missing following references: deeperdarker:otherside (from deeperdarker-forge-1.20.1-1.2.1.jar)
+[07Dec2024 03:32:41.094] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:is_eyestalker as it is missing following references: #forge:is_end (from enemyexpansion-2.3.1-forge-1.20.1.jar)
+[07Dec2024 03:32:46.207] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminousworld:entities/fawn}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Dec2024 03:32:46.209] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:undead_revamp2:entities/theheavy}.pools[2].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Dec2024 03:32:46.209] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:undead_revamp2:entities/slaveman}.pools[3].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Dec2024 03:32:46.209] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:undead_revamp2:entities/theskeeper}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Dec2024 03:32:46.209] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminousworld:entities/deer}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Dec2024 03:32:46.210] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminousworld:entities/deer}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Dec2024 03:32:46.211] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:luminousworld:entities/fawn}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07Dec2024 03:32:46.315] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[07Dec2024 03:32:46.382] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[07Dec2024 03:32:46.385] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[07Dec2024 03:32:46.404] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[07Dec2024 03:32:46.471] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[07Dec2024 03:32:46.496] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[07Dec2024 03:32:46.546] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[07Dec2024 03:32:46.557] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[07Dec2024 03:32:46.562] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[07Dec2024 03:32:46.574] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[07Dec2024 03:32:46.599] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[07Dec2024 03:32:46.600] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[07Dec2024 03:32:46.607] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[07Dec2024 03:32:46.612] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 29 recipes
+[07Dec2024 03:32:46.617] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function enemyexpansion:silver_exes
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 25: ...erfriends <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[07Dec2024 03:32:46.619] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[07Dec2024 03:32:46.765] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[07Dec2024 03:32:47.001] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 4248 recipe advancements
+[07Dec2024 03:32:47.028] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1017 advancements
+[07Dec2024 03:32:47.070] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[07Dec2024 03:32:47.090] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 19 curio slots
+[07Dec2024 03:32:47.115] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
+[07Dec2024 03:32:47.120] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+     - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
+     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
+     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
+[07Dec2024 03:32:47.189] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
+[07Dec2024 03:32:47.190] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
+[07Dec2024 03:32:47.190] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
+[07Dec2024 03:32:47.190] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[07Dec2024 03:32:47.191] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
+[07Dec2024 03:32:47.191] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
+[07Dec2024 03:32:47.192] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
+[07Dec2024 03:32:47.192] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[07Dec2024 03:32:47.193] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[07Dec2024 03:32:47.193] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[07Dec2024 03:32:47.194] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[07Dec2024 03:32:47.194] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[07Dec2024 03:32:47.195] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
+[07Dec2024 03:32:47.195] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[07Dec2024 03:32:47.195] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
+[07Dec2024 03:32:47.196] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[07Dec2024 03:32:47.197] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
+[07Dec2024 03:32:47.197] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
+[07Dec2024 03:32:47.198] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[07Dec2024 03:32:47.198] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
+[07Dec2024 03:32:47.198] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
+[07Dec2024 03:32:47.199] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
+[07Dec2024 03:32:47.199] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
+[07Dec2024 03:32:47.200] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
+[07Dec2024 03:32:47.200] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
+[07Dec2024 03:32:47.200] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
+[07Dec2024 03:32:47.201] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
+[07Dec2024 03:32:47.202] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
+[07Dec2024 03:32:47.202] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
+[07Dec2024 03:32:47.202] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
+[07Dec2024 03:32:47.210] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[07Dec2024 03:32:47.211] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[07Dec2024 03:32:47.211] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[07Dec2024 03:32:47.211] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[07Dec2024 03:32:47.213] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 3 patches
+[07Dec2024 03:32:47.213] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/plant_seed with 1 patches
+[07Dec2024 03:32:47.214] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 2 patches
+[07Dec2024 03:32:47.214] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[07Dec2024 03:32:47.214] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[07Dec2024 03:32:47.215] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[07Dec2024 03:32:47.229] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[07Dec2024 03:32:57.875] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[07Dec2024 03:32:57.897] [main/INFO] [zeta-internal/]: Dispatching ZTagsUpdated to 1 listener
+[07Dec2024 03:32:57.963] [main/INFO] [Supplementaries/]: Finished additional setup in 65 ms
+[07Dec2024 03:32:58.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[07Dec2024 03:32:58.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07Dec2024 03:32:58.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07Dec2024 03:32:58.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07Dec2024 03:32:58.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07Dec2024 03:32:58.596] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[07Dec2024 03:32:58.892] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07Dec2024 03:32:58.892] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[07Dec2024 03:32:58.893] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07Dec2024 03:32:58.894] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[07Dec2024 03:32:58.921] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[07Dec2024 03:32:58.923] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[07Dec2024 03:32:58.926] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[07Dec2024 03:32:58.933] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
+[07Dec2024 03:32:58.934] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
+[07Dec2024 03:32:58.937] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
+[07Dec2024 03:32:58.973] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
+[07Dec2024 03:32:58.977] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[07Dec2024 03:32:58.980] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[07Dec2024 03:32:58.986] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[07Dec2024 03:32:58.989] [Thread-4/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
+[07Dec2024 03:32:59.011] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[07Dec2024 03:32:59.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[07Dec2024 03:33:00.360] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:33:17.124] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:33:17.131] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:33:17.192] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:33:17.208] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:33:17.216] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:33:17.224] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:33:17.233] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:33:17.235] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:33:17.243] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:33:17.252] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:33:17.262] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:33:17.268] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:33:17.274] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:33:17.280] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:33:17.288] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:33:17.300] [Server thread/WARN] [yungsapi/]: WARNING: block Block{minecraft:gold_ore} added to BlockStateRandomizer exceeds max probabiltiy of 1!
+[07Dec2024 03:33:17.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[07Dec2024 03:33:18.093] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[07Dec2024 03:33:19.039] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[07Dec2024 03:33:20.835] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[07Dec2024 03:33:25.201] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[07Dec2024 03:33:30.548] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.550] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.550] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.550] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.551] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.551] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.551] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.552] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.552] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.552] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.554] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.556] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.557] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.558] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.559] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.560] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.562] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.563] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.564] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.566] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.567] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.569] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.579] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.580] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.580] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.581] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.582] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:30.806] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:31.306] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Dec2024 03:33:31.894] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[07Dec2024 03:33:32.316] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 15010 ms
+[07Dec2024 03:33:32.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (33.407s)! For help, type "help"
+[07Dec2024 03:33:32.407] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[07Dec2024 03:33:32.418] [Server thread/INFO] [net.stardustlabs.nullscape.Nullscape/]: Thanks for choosing Nullscape!
+[07Dec2024 03:33:32.419] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStartedEvent
+[07Dec2024 03:33:32.420] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loading now
+[07Dec2024 03:33:32.424] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: config loaded successfully
+[07Dec2024 03:33:32.425] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
+[07Dec2024 03:33:32.427] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[07Dec2024 03:33:32.427] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[07Dec2024 03:33:32.455] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[07Dec2024 03:33:32.456] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[07Dec2024 03:33:32.457] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[07Dec2024 03:33:32.458] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
+[07Dec2024 03:33:32.459] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/SV-MC/servidor_minecraft/./config/infernalmobs.cfg
+[07Dec2024 03:34:05.471] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[07Dec2024 03:34:05.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mufinmatias[/127.240.168.219:57787] logged in with entity id 1527 at (-235.116148291646, 137.0, -1383.3133601436218)
+[07Dec2024 03:34:06.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias joined the game
+[07Dec2024 03:34:11.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6115ms or 122 ticks behind
+[07Dec2024 03:34:31.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4798ms or 95 ticks behind
+[07Dec2024 03:34:53.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gusta20delcongo[/127.249.244.170:56609] logged in with entity id 1947 at (171.45197135813962, 103.0, -28.497727257383218)
+[07Dec2024 03:34:53.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo joined the game
+[07Dec2024 03:34:57.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[07Dec2024 03:35:23.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11666ms or 233 ticks behind
+[07Dec2024 03:35:42.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3957ms or 79 ticks behind
+[07Dec2024 03:35:48.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Your First Receptacle]
+[07Dec2024 03:36:06.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8609ms or 172 ticks behind
+[07Dec2024 03:36:25.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4458ms or 89 ticks behind
+[07Dec2024 03:36:44.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4151ms or 83 ticks behind
+[07Dec2024 03:37:03.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3206ms or 64 ticks behind
+[07Dec2024 03:37:28.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[07Dec2024 03:37:45.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
+[07Dec2024 03:38:02.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
+[07Dec2024 03:38:21.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3518ms or 70 ticks behind
+[07Dec2024 03:38:46.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10369ms or 207 ticks behind
+[07Dec2024 03:39:11.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9432ms or 188 ticks behind
+[07Dec2024 03:39:35.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9133ms or 182 ticks behind
+[07Dec2024 03:39:55.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mufinmatias moved too quickly! 7.771507416634989,-0.9099380807732729,6.915807459984649
+[07Dec2024 03:40:02.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mufinmatias moved too quickly! 9.341881692992928,-1.044812420399012,3.548590848112781
+[07Dec2024 03:40:04.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13816ms or 276 ticks behind
+[07Dec2024 03:40:27.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mufinmatias moved too quickly! 5.521527531916547,0.15233518685055003,8.453472636953165
+[07Dec2024 03:40:35.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16408ms or 328 ticks behind
+[07Dec2024 03:40:45.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias was slain by Bison
+[07Dec2024 03:40:45.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Back to childhood]
+[07Dec2024 03:40:45.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Not even afraid of death]
+[07Dec2024 03:40:46.139] [Server thread/INFO] [tombstone/]: The player mufinmatias has successfully been saved
+[07Dec2024 03:41:07.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16934ms or 338 ticks behind
