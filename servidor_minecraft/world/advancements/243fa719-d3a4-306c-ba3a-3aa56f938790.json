@@ -134,11 +134,13 @@
       "minecraft:birch_forest": "2024-12-07 03:45:06 +0000",
       "minecraft:savanna_plateau": "2024-12-05 05:21:46 +0000",
       "minecraft:beach": "2024-12-07 04:57:11 +0000",
+      "minecraft:sparse_jungle": "2024-12-07 05:19:25 +0000",
       "minecraft:river": "2024-12-05 03:39:14 +0000",
       "minecraft:stony_shore": "2024-12-07 04:55:22 +0000",
       "minecraft:dripstone_caves": "2024-12-06 00:17:39 +0000",
       "minecraft:forest": "2024-12-05 03:28:42 +0000",
       "minecraft:ocean": "2024-12-07 04:56:18 +0000",
+      "minecraft:jungle": "2024-12-07 05:18:42 +0000",
       "minecraft:flower_forest": "2024-12-05 23:44:15 +0000",
       "minecraft:frozen_peaks": "2024-12-06 00:04:44 +0000",
       "minecraft:deep_dark": "2024-12-06 00:04:26 +0000",
@@ -887,33 +889,15 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-07 05:01:35 +0000"
-    },
-    "done": false
-  },
   "takesapillage:bastille": {
     "criteria": {
       "in_bastille": "2024-12-07 03:46:39 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/use_frost_resistance": {
+  "endrem:main/corrupted_eye": {
     "criteria": {
-      "has_magic_scroll": "2024-12-07 04:55:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-07 04:17:39 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2024-12-07 03:57:39 +0000"
+      "corrupted_eye": "2024-12-07 03:54:18 +0000"
     },
     "done": true
   },
@@ -923,9 +907,15 @@
     },
     "done": true
   },
-  "endrem:main/corrupted_eye": {
+  "dungeons_arise:find_lighthouse": {
     "criteria": {
-      "corrupted_eye": "2024-12-07 03:54:18 +0000"
+      "location0": "2024-12-07 03:57:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_familiar_receptacle": "2024-12-07 04:00:48 +0000"
     },
     "done": true
   },
@@ -941,9 +931,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_familiar_receptacle": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_familiar_receptacle": "2024-12-07 04:00:48 +0000"
+      "tamed_animal": "2024-12-07 04:17:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2024-12-07 04:18:51 +0000"
     },
     "done": true
   },
@@ -953,9 +949,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_horn": {
+  "tombstone:adventure/use_frost_resistance": {
     "criteria": {
-      "bestiary": "2024-12-07 04:18:51 +0000"
+      "has_magic_scroll": "2024-12-07 04:55:38 +0000"
     },
     "done": true
   },
