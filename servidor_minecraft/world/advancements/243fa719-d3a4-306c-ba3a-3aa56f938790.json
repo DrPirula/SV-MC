@@ -196,11 +196,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-12-06 22:27:35 +0000",
+      "minecraft:pillager": "2024-12-07 03:51:36 +0000",
       "minecraft:skeleton": "2024-12-05 04:17:20 +0000",
       "minecraft:vindicator": "2024-12-05 03:29:56 +0000",
       "minecraft:spider": "2024-12-05 04:35:23 +0000",
       "minecraft:creeper": "2024-12-05 04:32:03 +0000",
       "minecraft:evoker": "2024-12-05 04:10:51 +0000",
+      "minecraft:witch": "2024-12-07 03:47:48 +0000",
       "minecraft:wither_skeleton": "2024-12-06 22:27:33 +0000",
       "minecraft:husk": "2024-12-05 22:23:52 +0000",
       "minecraft:cave_spider": "2024-12-05 04:31:19 +0000",
@@ -883,6 +885,24 @@
   "takesapillage:bastille": {
     "criteria": {
       "in_bastille": "2024-12-07 03:46:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2024-12-07 03:57:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2024-12-07 03:55:38 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2024-12-07 03:54:18 +0000"
     },
     "done": true
   },
