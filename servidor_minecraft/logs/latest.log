@@ -803,3 +803,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 04:01:53.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo moved too quickly! -8.191802666564627,0.6319031399820076,6.082762309495109
 [07Dec2024 04:02:07.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3738ms or 74 ticks behind
 [07Dec2024 04:02:10.873] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18506, l='ServerLevel[world]', x=-368.50, y=68.06, z=33.50] died, message: 'Villager was killed'
+[07Dec2024 04:03:11.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[07Dec2024 04:03:24.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [What a Deal!]
+[07Dec2024 04:03:33.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6942ms or 138 ticks behind
+[07Dec2024 04:04:14.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa was shot by gusta20delcongo
+[07Dec2024 04:04:14.381] [Server thread/INFO] [tombstone/]: The player JorgeTheDogJa has successfully been saved
+[07Dec2024 04:04:45.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa was shot by gusta20delcongo
+[07Dec2024 04:04:45.303] [Server thread/INFO] [tombstone/]: The player JorgeTheDogJa has successfully been saved
+[07Dec2024 04:05:33.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [A Flaming Sword]
+[07Dec2024 04:06:18.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has completed the challenge [Eye of the Tiger]
+[07Dec2024 04:06:18.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa has made the advancement [Mutual Aid]
+[07Dec2024 04:06:49.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has reached the goal [Home Sweet Home]
+[07Dec2024 04:07:27.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has reached the goal [Greed may lead to loss]
+[07Dec2024 04:08:13.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Dragon Growth Hormone]
+[07Dec2024 04:09:10.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind

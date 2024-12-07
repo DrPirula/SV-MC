@@ -219,7 +219,8 @@
       "minecraft:skeleton": "2024-12-05 03:40:31 +0000",
       "minecraft:vindicator": "2024-12-05 04:22:17 +0000",
       "minecraft:husk": "2024-12-05 23:17:18 +0000",
-      "minecraft:zombie": "2024-12-05 04:02:28 +0000"
+      "minecraft:zombie": "2024-12-05 04:02:28 +0000",
+      "minecraft:zombie_villager": "2024-12-07 04:01:54 +0000"
     },
     "done": false
   },
@@ -461,6 +462,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-12-07 04:05:33 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-07 03:46:25 +0000"
@@ -470,6 +477,18 @@
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-07 03:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-07 04:03:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2024-12-07 04:06:18 +0000"
     },
     "done": true
   },
