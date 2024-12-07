@@ -974,3 +974,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 20:04:58.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3608ms or 72 ticks behind
 [07Dec2024 20:08:34.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Black or White]
 [07Dec2024 20:08:41.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has reached the goal [A Small Cemetery]
+[07Dec2024 20:21:55.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo moved too quickly! 10.104695590277629,-0.3693736602695168,-1.4452107195953658
+[07Dec2024 20:21:55.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[07Dec2024 20:22:54.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[07Dec2024 20:27:38.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [This Must be a Sign!]
+[07Dec2024 20:28:03.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[07Dec2024 20:28:10.297] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=427, y=71, z=-469}
+[07Dec2024 20:28:22.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3333ms or 66 ticks behind
+[07Dec2024 20:29:32.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[07Dec2024 20:30:02.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14476ms or 289 ticks behind
+[07Dec2024 20:30:30.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[07Dec2024 20:30:51.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6347ms or 126 ticks behind
+[07Dec2024 20:31:11.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4826ms or 96 ticks behind
+[07Dec2024 20:31:34.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[07Dec2024 20:31:38.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/52085, l='ServerLevel[world]', x=653.53, y=63.00, z=-445.24] died, message: 'Shepherd was slain by Equestrian'
+[07Dec2024 20:31:40.376] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/53322, l='ServerLevel[world]', x=-369.50, y=68.06, z=33.50] died, message: 'Villager was killed'
+[07Dec2024 20:32:24.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[07Dec2024 20:32:38.626] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[07Dec2024 20:32:46.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7169ms or 143 ticks behind
+[07Dec2024 20:33:01.140] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[07Dec2024 20:33:04.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo moved wrongly!
+[07Dec2024 20:33:23.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has reached the goal [Strong or Careful]
+[07Dec2024 20:33:23.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Mr. Pumpkin
+[07Dec2024 20:33:24.207] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[07Dec2024 20:33:26.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[07Dec2024 20:33:50.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9553ms or 191 ticks behind
+[07Dec2024 20:34:12.547] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[07Dec2024 20:35:15.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind

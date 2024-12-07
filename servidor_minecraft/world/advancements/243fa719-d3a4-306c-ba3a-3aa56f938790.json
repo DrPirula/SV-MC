@@ -501,6 +501,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "quark:shiba": "2024-12-07 20:16:51 +0000",
       "minecraft:pig": "2024-12-05 22:59:07 +0000"
     },
     "done": false
