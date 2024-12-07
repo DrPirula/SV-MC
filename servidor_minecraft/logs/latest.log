@@ -836,3 +836,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 04:21:34.733] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
 [07Dec2024 04:23:22.685] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JorgeTheDogJa lost connection: Disconnected
 [07Dec2024 04:23:22.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JorgeTheDogJa left the game
+[07Dec2024 04:30:24.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has reached the goal [Death Will Not Be Enough]
+[07Dec2024 04:32:19.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has reached the goal [Flowers of the Savanna]
