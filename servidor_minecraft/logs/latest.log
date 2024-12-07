@@ -269,3 +269,6 @@
 [07Dec2024 02:21:22.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo lost connection: Timed out
 [07Dec2024 02:21:22.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo left the game
 [07Dec2024 02:21:22.316] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Dec2024 02:32:19.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gusta20delcongo[/127.249.244.170:47481] logged in with entity id 126064 at (-373.0550843961178, 68.0, 47.05128688144908)
+[07Dec2024 02:32:19.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo joined the game
+[07Dec2024 02:37:38.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has reached the goal [Great minds think alike]
