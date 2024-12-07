@@ -318,6 +318,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-05 05:11:54 +0000",
+      "cooked_mutton": "2024-12-07 04:37:46 +0000",
       "cooked_beef": "2024-12-05 04:24:25 +0000",
       "beef": "2024-12-07 00:35:44 +0000",
       "tropical_fish": "2024-12-06 01:07:48 +0000",
@@ -927,6 +928,12 @@
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_familiar_receptacle": "2024-12-07 04:00:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-07 04:30:24 +0000"
     },
     "done": true
   },
