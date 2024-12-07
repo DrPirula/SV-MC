@@ -305,6 +305,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2024-12-07 03:44:19 +0000",
       "bread": "2024-12-05 04:15:39 +0000",
       "golden_apple": "2024-12-06 22:45:51 +0000",
       "golden_carrot": "2024-12-07 00:21:29 +0000",
@@ -759,9 +760,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-12-07 03:40:45 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_familiar_receptacle": "2024-12-07 03:35:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-12-07 03:40:45 +0000"
     },
     "done": true
   },
