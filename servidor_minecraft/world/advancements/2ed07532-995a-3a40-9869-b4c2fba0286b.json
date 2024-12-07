@@ -128,6 +128,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-06 00:46:18 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-07 20:37:36 +0000",
       "minecraft:taiga": "2024-12-07 20:29:33 +0000",
       "quark:glimmering_weald": "2024-12-06 00:22:53 +0000",
       "minecraft:sunflower_plains": "2024-12-05 23:47:17 +0000",
@@ -147,6 +148,7 @@
       "minecraft:desert": "2024-12-07 02:39:33 +0000",
       "minecraft:ocean": "2024-12-07 04:00:43 +0000",
       "minecraft:jungle": "2024-12-07 05:18:40 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-07 20:41:25 +0000",
       "minecraft:warm_ocean": "2024-12-07 02:41:08 +0000",
       "minecraft:flower_forest": "2024-12-05 23:44:22 +0000",
       "minecraft:frozen_peaks": "2024-12-06 00:34:45 +0000",
@@ -886,6 +888,12 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-07 20:27:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-07 20:33:23 +0000"
     },
     "done": true
   },
