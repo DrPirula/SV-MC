@@ -641,3 +641,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 19:16:20.479] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
 [07Dec2024 19:16:20.480] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
 [07Dec2024 19:16:20.480] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/SV-MC/servidor_minecraft/./config/infernalmobs.cfg
+[07Dec2024 19:26:28.741] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[07Dec2024 19:26:28.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gusta20delcongo[/127.249.244.170:35293] logged in with entity id 1469 at (-376.6549777211157, 68.0625, 48.6870351173755)
+[07Dec2024 19:26:29.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo joined the game
+[07Dec2024 19:26:32.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3661ms or 73 ticks behind
+[07Dec2024 19:26:52.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4683ms or 93 ticks behind
+[07Dec2024 19:31:02.703] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@55de492d[id=<null>,name=mufinmatias,properties={},legacy=false] (/127.240.168.219:60283) lost connection: Disconnected
+[07Dec2024 19:31:10.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mufinmatias[/127.240.168.219:43889] logged in with entity id 2404 at (-368.0519541847728, 74.0625, 46.90598955636802)
+[07Dec2024 19:31:10.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias joined the game
+[07Dec2024 19:32:10.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of mufinmatias) moved wrongly! 0.32148231352549317
+[07Dec2024 19:32:10.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of mufinmatias) moved wrongly! 0.5
+[07Dec2024 19:32:10.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of mufinmatias) moved wrongly! 0.5
+[07Dec2024 19:32:10.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of mufinmatias) moved wrongly! 0.5
+[07Dec2024 19:32:31.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
