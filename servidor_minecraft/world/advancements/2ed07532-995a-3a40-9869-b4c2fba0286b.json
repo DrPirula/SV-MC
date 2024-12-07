@@ -208,6 +208,7 @@
       "minecraft:blaze": "2024-12-06 23:13:21 +0000",
       "minecraft:pillager": "2024-12-07 03:52:21 +0000",
       "minecraft:skeleton": "2024-12-05 04:27:13 +0000",
+      "minecraft:ravager": "2024-12-07 05:36:39 +0000",
       "minecraft:vindicator": "2024-12-05 03:29:48 +0000",
       "minecraft:spider": "2024-12-05 04:34:33 +0000",
       "minecraft:creeper": "2024-12-05 23:57:50 +0000",
@@ -216,6 +217,7 @@
       "minecraft:husk": "2024-12-05 23:02:10 +0000",
       "minecraft:silverfish": "2024-12-06 01:05:18 +0000",
       "minecraft:stray": "2024-12-07 00:41:06 +0000",
+      "minecraft:enderman": "2024-12-07 05:32:39 +0000",
       "minecraft:zombie": "2024-12-05 04:03:10 +0000",
       "minecraft:zombie_villager": "2024-12-05 05:20:22 +0000"
     },
@@ -832,6 +834,24 @@
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2024-12-07 04:32:19 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:cloggeradvance": {
+    "criteria": {
+      "cloggeradvance": "2024-12-07 05:30:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-07 05:31:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2024-12-07 05:33:22 +0000"
     },
     "done": true
   },

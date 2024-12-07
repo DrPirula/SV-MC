@@ -1068,3 +1068,60 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 05:30:24.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5719ms or 114 ticks behind
 [07Dec2024 05:30:33.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo moved wrongly!
 [07Dec2024 05:30:45.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has completed the challenge [Unsanitary BBQ]
+[07Dec2024 05:30:55.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[07Dec2024 05:31:03.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gusta20delcongo moved wrongly!
+[07Dec2024 05:31:16.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[07Dec2024 05:31:18.436] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[07Dec2024 05:31:18.437] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[07Dec2024 05:31:18.437] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[07Dec2024 05:31:18.438] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[07Dec2024 05:31:18.438] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[07Dec2024 05:31:18.439] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[07Dec2024 05:31:23.804] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=27, z=-561}
+[07Dec2024 05:31:23.805] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
+[07Dec2024 05:31:23.805] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
+[07Dec2024 05:31:31.142] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-594}
+[07Dec2024 05:31:31.143] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-593}
+[07Dec2024 05:31:31.143] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-593}
+[07Dec2024 05:31:31.143] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=30, z=-591}
+[07Dec2024 05:31:31.143] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-591}
+[07Dec2024 05:31:31.143] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-592}
+[07Dec2024 05:31:31.143] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-590}
+[07Dec2024 05:31:31.144] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-589}
+[07Dec2024 05:31:31.144] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-589}
+[07Dec2024 05:31:31.144] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=24, z=-591}
+[07Dec2024 05:31:31.144] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-588}
+[07Dec2024 05:31:31.144] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-593}
+[07Dec2024 05:31:31.145] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-334, y=30, z=-591}
+[07Dec2024 05:31:31.145] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-589}
+[07Dec2024 05:31:31.145] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-590}
+[07Dec2024 05:31:31.146] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-591}
+[07Dec2024 05:31:31.146] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-592}
+[07Dec2024 05:31:31.147] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=24, z=-591}
+[07Dec2024 05:31:34.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3162ms or 63 ticks behind
+[07Dec2024 05:31:38.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [They Have a Cave Troll!]
+[07Dec2024 05:33:07.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Welcome To The Machine]
+[07Dec2024 05:33:22.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Welcome To The Machine]
+[07Dec2024 05:34:30.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was shot by Skeleton
+[07Dec2024 05:34:32.639] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[07Dec2024 05:34:34.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3830ms or 76 ticks behind
+[07Dec2024 05:34:34.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mufinmatias moved too quickly! -1.698241411786512,0.0625,10.00689131701165
+[07Dec2024 05:37:42.117] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/12213, l='ServerLevel[world]', x=-759.52, y=144.00, z=-2890.47] died: Gearling was slain by gusta20delcongo
+[07Dec2024 05:38:56.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/12359, l='ServerLevel[world]', x=-760.12, y=144.00, z=-2890.20] died: Gearling was shot by gusta20delcongo
+[07Dec2024 05:38:57.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/12636, l='ServerLevel[world]', x=-760.13, y=144.00, z=-2890.34] died: Gearling was shot by gusta20delcongo
+[07Dec2024 05:39:00.216] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/12562, l='ServerLevel[world]', x=-765.25, y=144.00, z=-2889.45] died: Gearling was shot by mufinmatias
+[07Dec2024 05:39:08.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Gearling
+[07Dec2024 05:39:09.481] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[07Dec2024 05:39:11.096] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/12377, l='ServerLevel[world]', x=-765.51, y=144.00, z=-2888.97] died: Gearling was shot by mufinmatias
+[07Dec2024 05:39:11.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[07Dec2024 05:39:12.931] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/12792, l='ServerLevel[world]', x=-765.51, y=144.00, z=-2889.18] died: Gearling was shot by mufinmatias
+[07Dec2024 05:39:14.592] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/12211, l='ServerLevel[world]', x=-764.35, y=149.00, z=-2889.57] died: Gearling was shot by mufinmatias
+[07Dec2024 05:39:19.703] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/12820, l='ServerLevel[world]', x=-765.89, y=144.00, z=-2889.19] died: Gearling was shot by mufinmatias
+[07Dec2024 05:39:21.554] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/12668, l='ServerLevel[world]', x=-765.28, y=144.00, z=-2889.45] died: Gearling was shot by mufinmatias
+[07Dec2024 05:39:31.387] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13172, l='ServerLevel[world]', x=-765.68, y=144.00, z=-2889.48] died: Gearling was shot by mufinmatias
+[07Dec2024 05:39:38.213] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13209, l='ServerLevel[world]', x=-761.46, y=144.00, z=-2890.15] died: Gearling was shot by gusta20delcongo
+[07Dec2024 05:39:45.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13169, l='ServerLevel[world]', x=-763.33, y=144.00, z=-2889.65] died: Gearling was shot by mufinmatias
+[07Dec2024 05:40:00.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13289, l='ServerLevel[world]', x=-763.01, y=144.00, z=-2888.51] died: Gearling was slain by mufinmatias
+[07Dec2024 05:40:02.542] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13291, l='ServerLevel[world]', x=-764.77, y=144.00, z=-2887.41] died: Gearling was slain by mufinmatias
+[07Dec2024 05:40:03.438] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13298, l='ServerLevel[world]', x=-764.33, y=144.00, z=-2887.96] died: Gearling was slain by mufinmatias
+[07Dec2024 05:40:07.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/13335, l='ServerLevel[world]', x=-757.21, y=144.06, z=-2885.40] died: Gearling was slain by mufinmatias

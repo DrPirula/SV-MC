@@ -203,6 +203,7 @@
       "minecraft:blaze": "2024-12-06 22:27:35 +0000",
       "minecraft:pillager": "2024-12-07 03:51:36 +0000",
       "minecraft:skeleton": "2024-12-05 04:17:20 +0000",
+      "minecraft:ravager": "2024-12-07 05:36:22 +0000",
       "minecraft:vindicator": "2024-12-05 03:29:56 +0000",
       "minecraft:spider": "2024-12-05 04:35:23 +0000",
       "minecraft:creeper": "2024-12-05 04:32:03 +0000",
@@ -952,6 +953,12 @@
   "tombstone:adventure/use_frost_resistance": {
     "criteria": {
       "has_magic_scroll": "2024-12-07 04:55:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2024-12-07 05:33:07 +0000"
     },
     "done": true
   },
