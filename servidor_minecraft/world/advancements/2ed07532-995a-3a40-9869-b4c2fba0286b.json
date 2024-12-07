@@ -201,6 +201,7 @@
       "minecraft:wither_skeleton": "2024-12-06 22:58:27 +0000",
       "minecraft:husk": "2024-12-05 23:02:10 +0000",
       "minecraft:silverfish": "2024-12-06 01:05:18 +0000",
+      "minecraft:stray": "2024-12-07 00:41:06 +0000",
       "minecraft:zombie": "2024-12-05 04:03:10 +0000",
       "minecraft:zombie_villager": "2024-12-05 05:20:22 +0000"
     },
@@ -546,6 +547,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2024-12-07 00:42:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-06 23:15:23 +0000",
@@ -565,6 +572,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-07 00:41:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-06 22:57:52 +0000"
@@ -574,6 +587,12 @@
   "dungeons_arise:find_merchant_campsite": {
     "criteria": {
       "location0": "2024-12-07 00:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-07 00:41:42 +0000"
     },
     "done": true
   },
@@ -598,6 +617,12 @@
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2024-12-06 22:59:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2024-12-07 00:45:47 +0000"
     },
     "done": true
   },

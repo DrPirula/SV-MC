@@ -202,6 +202,7 @@
       "minecraft:wither_skeleton": "2024-12-06 22:27:33 +0000",
       "minecraft:husk": "2024-12-05 22:23:52 +0000",
       "minecraft:cave_spider": "2024-12-05 04:31:19 +0000",
+      "minecraft:stray": "2024-12-07 00:41:26 +0000",
       "minecraft:vex": "2024-12-05 04:51:45 +0000",
       "minecraft:zombie": "2024-12-05 03:40:08 +0000",
       "minecraft:zombie_villager": "2024-12-05 04:46:58 +0000"
@@ -322,6 +323,7 @@
       "rotten_flesh": "2024-12-05 03:57:18 +0000",
       "cookie": "2024-12-05 05:04:50 +0000",
       "melon_slice": "2024-12-07 00:21:26 +0000",
+      "golden_carrot": "2024-12-07 00:46:04 +0000",
       "cooked_rabbit": "2024-12-05 05:00:38 +0000",
       "cooked_salmon": "2024-12-05 04:33:25 +0000",
       "carrot": "2024-12-06 00:40:37 +0000"
@@ -825,6 +827,18 @@
   "tombstone:adventure/use_unstable_intangibility": {
     "criteria": {
       "has_magic_scroll": "2024-12-07 00:29:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-07 00:41:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2024-12-07 00:45:31 +0000"
     },
     "done": true
   },
