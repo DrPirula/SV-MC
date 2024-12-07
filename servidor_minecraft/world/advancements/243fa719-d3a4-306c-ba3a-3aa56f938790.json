@@ -133,9 +133,12 @@
       "minecraft:sunflower_plains": "2024-12-05 23:47:21 +0000",
       "minecraft:birch_forest": "2024-12-07 03:45:06 +0000",
       "minecraft:savanna_plateau": "2024-12-05 05:21:46 +0000",
+      "minecraft:beach": "2024-12-07 04:57:11 +0000",
       "minecraft:river": "2024-12-05 03:39:14 +0000",
+      "minecraft:stony_shore": "2024-12-07 04:55:22 +0000",
       "minecraft:dripstone_caves": "2024-12-06 00:17:39 +0000",
       "minecraft:forest": "2024-12-05 03:28:42 +0000",
+      "minecraft:ocean": "2024-12-07 04:56:18 +0000",
       "minecraft:flower_forest": "2024-12-05 23:44:15 +0000",
       "minecraft:frozen_peaks": "2024-12-06 00:04:44 +0000",
       "minecraft:deep_dark": "2024-12-06 00:04:26 +0000",
@@ -884,9 +887,21 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-07 05:01:35 +0000"
+    },
+    "done": false
+  },
   "takesapillage:bastille": {
     "criteria": {
       "in_bastille": "2024-12-07 03:46:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_frost_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-07 04:55:38 +0000"
     },
     "done": true
   },
