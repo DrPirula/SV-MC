@@ -1168,3 +1168,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 05:53:31.207] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
 [07Dec2024 05:53:34.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
 [07Dec2024 05:57:49.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Wax Off]
+[07Dec2024 06:01:39.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[07Dec2024 06:07:31.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Skeleton
+[07Dec2024 06:07:32.661] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[07Dec2024 06:07:34.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[07Dec2024 06:07:55.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5327ms or 106 ticks behind
+[07Dec2024 06:08:25.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/19735, l='ServerLevel[world]', x=-769.45, y=233.00, z=-2949.92] died: Gearling was slain by gusta20delcongo
+[07Dec2024 06:08:27.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/20435, l='ServerLevel[world]', x=-769.53, y=233.50, z=-2952.28] died: Gearling was slain by gusta20delcongo
+[07Dec2024 06:08:27.854] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/20266, l='ServerLevel[world]', x=-768.15, y=234.31, z=-2951.15] died: Gearling was slain by gusta20delcongo
+[07Dec2024 06:09:31.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo blew up
+[07Dec2024 06:09:31.770] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[07Dec2024 06:09:41.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[07Dec2024 06:09:58.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
+[07Dec2024 06:10:32.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[07Dec2024 06:10:53.876] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/21930, l='ServerLevel[world]', x=-784.19, y=212.06, z=-2797.90] died: Gearling was slain by mufinmatias
+[07Dec2024 06:10:58.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was shot by Skeleton
+[07Dec2024 06:10:59.754] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[07Dec2024 06:11:00.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[07Dec2024 06:11:01.505] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/22073, l='ServerLevel[world]', x=-795.57, y=212.00, z=-2796.00] died: Gearling was slain by mufinmatias
+[07Dec2024 06:11:05.412] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/22015, l='ServerLevel[world]', x=-795.68, y=212.00, z=-2797.05] died: Gearling was slain by mufinmatias
+[07Dec2024 06:11:21.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5963ms or 119 ticks behind
