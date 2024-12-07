@@ -131,6 +131,8 @@
       "quark:glimmering_weald": "2024-12-06 00:22:53 +0000",
       "minecraft:sunflower_plains": "2024-12-05 23:47:17 +0000",
       "minecraft:river": "2024-12-05 03:33:45 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-07 02:53:06 +0000",
+      "minecraft:stony_shore": "2024-12-07 02:51:34 +0000",
       "minecraft:dripstone_caves": "2024-12-07 01:02:24 +0000",
       "minecraft:grove": "2024-12-06 01:05:10 +0000",
       "minecraft:jagged_peaks": "2024-12-06 01:01:17 +0000",
@@ -319,7 +321,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2024-12-05 05:32:06 +0000",
-      "in_better_monster_room": "2024-12-05 04:23:49 +0000"
+      "in_better_monster_room": "2024-12-05 04:23:49 +0000",
+      "in_better_spider_dungeon": "2024-12-07 02:49:23 +0000"
     },
     "done": false
   },
@@ -720,9 +723,33 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2024-12-07 02:53:59 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-07 02:37:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-07 02:53:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-07 02:52:52 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-07 02:49:23 +0000"
     },
     "done": true
   },
