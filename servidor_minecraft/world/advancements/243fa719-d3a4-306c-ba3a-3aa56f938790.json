@@ -142,8 +142,10 @@
       "minecraft:dripstone_caves": "2024-12-06 00:17:39 +0000",
       "minecraft:grove": "2024-12-07 06:54:49 +0000",
       "minecraft:forest": "2024-12-05 03:28:42 +0000",
+      "minecraft:desert": "2024-12-07 19:34:25 +0000",
       "minecraft:ocean": "2024-12-07 04:56:18 +0000",
       "minecraft:jungle": "2024-12-07 05:18:42 +0000",
+      "minecraft:warm_ocean": "2024-12-07 19:35:20 +0000",
       "minecraft:flower_forest": "2024-12-05 23:44:15 +0000",
       "minecraft:frozen_peaks": "2024-12-06 00:04:44 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-07 06:44:36 +0000",
@@ -987,6 +989,24 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-07 06:44:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-07 19:42:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-07 19:42:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-12-07 19:46:27 +0000"
     },
     "done": true
   },
