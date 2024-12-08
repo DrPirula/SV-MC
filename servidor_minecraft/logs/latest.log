@@ -908,3 +908,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 23:24:14.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [08Dec2024 23:24:14.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [08Dec2024 23:24:14.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:25:04.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[08Dec2024 23:25:17.476] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/26948, l='ServerLevel[world]', x=-280.49, y=36.00, z=146.59] died: Piglin Knight was slain by gusta20delcongo
+[08Dec2024 23:25:46.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Hellish Paradise]
+[08Dec2024 23:26:45.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Pyromancer'/27051, l='ServerLevel[world]', x=-270.06, y=36.00, z=177.13] died: Piglin Pyromancer was shot by gusta20delcongo
+[08Dec2024 23:27:48.401] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:27:48.402] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:27:48.402] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:27:48.402] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:27:48.402] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:28:16.879] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/27196, l='ServerLevel[world]', x=-286.61, y=36.00, z=198.57] died: Piglin Knight was shot by gusta20delcongo
+[08Dec2024 23:28:21.971] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/27450, l='ServerLevel[world]', x=-277.50, y=38.00, z=214.48] died: Piglin Knight was shot by gusta20delcongo
+[08Dec2024 23:29:00.825] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/27194, l='ServerLevel[world]', x=-313.91, y=36.00, z=208.70] died: Piglin Paratrooper was slain by gusta20delcongo
+[08Dec2024 23:30:24.032] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/26931, l='ServerLevel[world]', x=-344.30, y=36.00, z=166.85] died: Piglin Knight was slain by gusta20delcongo
+[08Dec2024 23:30:42.521] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/26835, l='ServerLevel[world]', x=-306.70, y=45.00, z=158.86] died: Piglin Paratrooper fell from a high place
+[08Dec2024 23:31:18.028] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:31:18.029] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:31:18.029] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:31:18.029] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:31:32.585] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:31:32.585] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:31:32.586] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:32:29.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/26518, l='ServerLevel[world]', x=-306.15, y=62.00, z=101.39] died: Piglin Scout was slain by gusta20delcongo
+[08Dec2024 23:32:38.945] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/26457, l='ServerLevel[world]', x=-320.06, y=62.00, z=111.50] died: Piglin Knight was shot by gusta20delcongo
+[08Dec2024 23:32:41.720] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/26480, l='ServerLevel[world]', x=-304.70, y=64.50, z=111.02] died: Piglin Paratrooper was shot by gusta20delcongo
+[08Dec2024 23:32:42.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/26479, l='ServerLevel[world]', x=-314.59, y=62.00, z=111.50] died: Piglin Paratrooper was shot by gusta20delcongo
+[08Dec2024 23:33:02.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/26517, l='ServerLevel[world]', x=-304.50, y=63.00, z=122.49] died: Piglin Scout was slain by gusta20delcongo
+[08Dec2024 23:33:37.023] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/26852, l='ServerLevel[world]', x=-256.50, y=62.00, z=155.22] died: Piglin Paratrooper was slain by gusta20delcongo
+[08Dec2024 23:33:42.898] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/27046, l='ServerLevel[world]', x=-256.49, y=62.00, z=167.85] died: Piglin Paratrooper was slain by gusta20delcongo
+[08Dec2024 23:33:44.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/26943, l='ServerLevel[world]', x=-256.51, y=62.00, z=169.47] died: Piglin Paratrooper was slain by gusta20delcongo
+[08Dec2024 23:33:46.525] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/26749, l='ServerLevel[world]', x=-251.15, y=62.00, z=171.24] died: Piglin Knight was slain by gusta20delcongo
+[08Dec2024 23:33:57.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was slain by Piglin Knight
+[08Dec2024 23:33:58.150] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[08Dec2024 23:34:00.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[08Dec2024 23:34:07.858] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/30619, l='ServerLevel[world]', x=-256.35, y=62.00, z=158.96] died: Piglin Knight was slain by gusta20delcongo
+[08Dec2024 23:34:28.922] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/30645, l='ServerLevel[world]', x=-241.50, y=62.00, z=183.26] died: Piglin Knight was shot by gusta20delcongo
+[08Dec2024 23:34:44.644] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/30717, l='ServerLevel[world]', x=-264.34, y=62.00, z=191.48] died: Piglin Paratrooper was shot by gusta20delcongo
+[08Dec2024 23:35:03.525] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/30659, l='ServerLevel[world]', x=-271.65, y=62.00, z=205.68] died: Piglin Paratrooper was shot by gusta20delcongo

@@ -222,6 +222,7 @@
       "minecraft:skeleton": "2024-12-05 04:27:13 +0000",
       "minecraft:ravager": "2024-12-07 05:36:39 +0000",
       "minecraft:ghast": "2024-12-08 04:34:58 +0000",
+      "minecraft:hoglin": "2024-12-08 23:29:07 +0000",
       "minecraft:vindicator": "2024-12-05 03:29:48 +0000",
       "minecraft:magma_cube": "2024-12-08 04:33:10 +0000",
       "minecraft:spider": "2024-12-05 04:34:33 +0000",
@@ -1030,6 +1031,7 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:ash_barrens": "2024-12-08 04:16:23 +0000",
+      "incendium:quartz_flats": "2024-12-08 23:25:46 +0000",
       "incendium:volcanic_deltas": "2024-12-08 04:19:35 +0000"
     },
     "done": false
@@ -1104,6 +1106,18 @@
   "betterdungeons:skeleton_dungeon": {
     "criteria": {
       "in_better_skeleton_dungeon": "2024-12-08 21:01:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2024-12-08 23:25:46 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/enter_castle": {
+    "criteria": {
+      "requirement": "2024-12-08 23:21:01 +0000"
     },
     "done": true
   },
