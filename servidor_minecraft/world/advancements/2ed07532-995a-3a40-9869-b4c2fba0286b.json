@@ -130,6 +130,7 @@
       "minecraft:snowy_slopes": "2024-12-06 00:46:18 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-07 20:37:36 +0000",
       "minecraft:taiga": "2024-12-07 20:29:33 +0000",
+      "minecraft:frozen_river": "2024-12-08 05:29:14 +0000",
       "quark:glimmering_weald": "2024-12-06 00:22:53 +0000",
       "minecraft:sunflower_plains": "2024-12-05 23:47:17 +0000",
       "minecraft:cherry_grove": "2024-12-07 04:36:36 +0000",
@@ -141,14 +142,19 @@
       "minecraft:river": "2024-12-05 03:33:45 +0000",
       "minecraft:lukewarm_ocean": "2024-12-07 02:53:06 +0000",
       "minecraft:stony_shore": "2024-12-07 02:51:34 +0000",
+      "minecraft:snowy_plains": "2024-12-08 05:29:29 +0000",
       "minecraft:dripstone_caves": "2024-12-07 01:02:24 +0000",
+      "minecraft:snowy_taiga": "2024-12-08 05:27:23 +0000",
       "minecraft:grove": "2024-12-06 01:05:10 +0000",
       "minecraft:jagged_peaks": "2024-12-06 01:01:17 +0000",
+      "minecraft:cold_ocean": "2024-12-08 05:59:19 +0000",
       "minecraft:forest": "2024-12-05 03:28:41 +0000",
+      "minecraft:frozen_ocean": "2024-12-08 05:59:08 +0000",
       "minecraft:desert": "2024-12-07 02:39:33 +0000",
       "minecraft:ocean": "2024-12-07 04:00:43 +0000",
       "minecraft:jungle": "2024-12-07 05:18:40 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-07 20:41:25 +0000",
+      "minecraft:snowy_beach": "2024-12-08 06:01:21 +0000",
       "minecraft:warm_ocean": "2024-12-07 02:41:08 +0000",
       "minecraft:flower_forest": "2024-12-05 23:44:22 +0000",
       "minecraft:frozen_peaks": "2024-12-06 00:34:45 +0000",
@@ -214,13 +220,18 @@
       "minecraft:pillager": "2024-12-07 03:52:21 +0000",
       "minecraft:skeleton": "2024-12-05 04:27:13 +0000",
       "minecraft:ravager": "2024-12-07 05:36:39 +0000",
+      "minecraft:ghast": "2024-12-08 04:34:58 +0000",
       "minecraft:vindicator": "2024-12-05 03:29:48 +0000",
+      "minecraft:magma_cube": "2024-12-08 04:33:10 +0000",
       "minecraft:spider": "2024-12-05 04:34:33 +0000",
+      "minecraft:piglin_brute": "2024-12-08 04:36:24 +0000",
       "minecraft:creeper": "2024-12-05 23:57:50 +0000",
+      "minecraft:evoker": "2024-12-08 05:47:58 +0000",
       "minecraft:zombified_piglin": "2024-12-07 19:33:58 +0000",
       "minecraft:witch": "2024-12-07 01:31:35 +0000",
       "minecraft:wither_skeleton": "2024-12-06 22:58:27 +0000",
       "minecraft:husk": "2024-12-05 23:02:10 +0000",
+      "minecraft:piglin": "2024-12-08 04:36:59 +0000",
       "minecraft:silverfish": "2024-12-06 01:05:18 +0000",
       "minecraft:stray": "2024-12-07 00:41:06 +0000",
       "minecraft:enderman": "2024-12-07 05:32:39 +0000",
@@ -599,7 +610,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-06 23:15:23 +0000",
-      "minecraft:nether_wastes": "2024-12-06 22:57:53 +0000"
+      "minecraft:nether_wastes": "2024-12-06 22:57:53 +0000",
+      "minecraft:soul_sand_valley": "2024-12-08 04:23:31 +0000",
+      "minecraft:basalt_deltas": "2024-12-08 04:19:27 +0000"
     },
     "done": false
   },
@@ -885,79 +898,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 20:51:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 20:51:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 20:51:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 20:51:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 20:51:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-07 20:52:27 +0000",
-      "log_spam_fixer": "2024-12-07 20:51:41 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 20:51:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 20:51:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 20:51:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 20:51:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 20:51:41 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-07 20:51:41 +0000"
-    },
-    "done": false
-  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-07 20:27:38 +0000"
@@ -967,6 +907,195 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-12-07 20:33:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-07 22:00:29 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:you_da_bomby": {
+    "criteria": {
+      "tamed_creeper_minion": "2024-12-07 22:05:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2024-12-07 22:06:48 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat": "2024-12-08 00:35:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_tremorsaurus": "2024-12-08 00:49:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2024-12-08 00:59:53 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2024-12-08 00:59:53 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2024-12-08 01:03:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2024-12-08 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2024-12-08 01:26:52 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2024-12-08 01:29:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2024-12-08 01:36:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2024-12-08 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2024-12-08 01:54:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_tremorsaurus": {
+    "criteria": {
+      "killed": "2024-12-08 02:10:47 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "blue": "2024-12-08 02:31:18 +0000",
+      "violet": "2024-12-08 02:31:24 +0000"
+    },
+    "done": false
+  },
+  "undead_revamp2:devillhunter": {
+    "criteria": {
+      "devillhunter": "2024-12-08 03:35:24 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly": "2024-12-08 03:38:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:ash_barrens": "2024-12-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2024-12-08 04:16:23 +0000",
+      "incendium:volcanic_deltas": "2024-12-08 04:19:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2024-12-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-08 04:19:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2024-12-08 04:19:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-12-08 04:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-08 04:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-08 04:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-08 04:59:11 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2024-12-08 05:47:58 +0000",
+      "killed_iceologer": "2024-12-08 05:29:51 +0000"
+    },
+    "done": false
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2024-12-08 05:29:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-08 05:54:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-08 06:09:46 +0000"
     },
     "done": true
   },
