@@ -1192,6 +1192,18 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2024-12-08 20:55:59 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "warden": "2024-12-08 20:55:59 +0000"
+    },
+    "done": false
+  },
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2024-12-08 20:44:43 +0000"
