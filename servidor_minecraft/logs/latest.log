@@ -877,3 +877,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 23:10:48.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mufinmatias lost connection: Disconnected
 [08Dec2024 23:10:48.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias left the game
 [08Dec2024 23:10:50.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6548ms or 130 ticks behind
+[08Dec2024 23:14:38.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
+[08Dec2024 23:20:11.983] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/26459, l='ServerLevel[world]', x=-286.50, y=58.00, z=76.52] died: Piglin Paratrooper was slain by gusta20delcongo
+[08Dec2024 23:20:38.314] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/26453, l='ServerLevel[world]', x=-289.30, y=58.42, z=80.34] died: Piglin Knight was shot by gusta20delcongo
+[08Dec2024 23:20:47.376] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/26420, l='ServerLevel[world]', x=-290.62, y=58.00, z=78.50] died: Piglin Paratrooper was shot by gusta20delcongo
+[08Dec2024 23:21:01.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has reached the goal [In the Hall of the Piglin King]
+[08Dec2024 23:21:05.589] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:21:05.590] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:21:05.590] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:21:17.825] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/26455, l='ServerLevel[world]', x=-294.96, y=59.00, z=84.15] died: Piglin Paratrooper was shot by gusta20delcongo
+[08Dec2024 23:21:25.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/26537, l='ServerLevel[world]', x=-301.23, y=62.00, z=95.51] died: Piglin Paratrooper was shot by gusta20delcongo
+[08Dec2024 23:21:27.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/26458, l='ServerLevel[world]', x=-300.34, y=60.00, z=87.91] died: Piglin Paratrooper was shot by gusta20delcongo
+[08Dec2024 23:22:32.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/26452, l='ServerLevel[world]', x=-281.98, y=35.50, z=107.86] died: Piglin Knight was shot by gusta20delcongo
+[08Dec2024 23:22:36.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/26516, l='ServerLevel[world]', x=-296.99, y=36.00, z=127.11] died: Piglin Knight was shot by gusta20delcongo
+[08Dec2024 23:22:58.170] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/26513, l='ServerLevel[world]', x=-315.49, y=37.50, z=120.80] died: Piglin Knight was shot by gusta20delcongo
+[08Dec2024 23:23:34.852] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/26739, l='ServerLevel[world]', x=-317.05, y=36.00, z=136.49] died: Piglin Knight was shot by gusta20delcongo
+[08Dec2024 23:23:43.222] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/26740, l='ServerLevel[world]', x=-326.83, y=36.50, z=129.46] died: Piglin Knight was shot by gusta20delcongo
+[08Dec2024 23:23:53.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/26745, l='ServerLevel[world]', x=-293.58, y=36.00, z=135.43] died: Piglin Knight was shot by gusta20delcongo
+[08Dec2024 23:23:57.373] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:23:57.373] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:23:57.373] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:23:57.373] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:23:57.374] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:23:57.374] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:23:57.374] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:24:14.831] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:24:14.832] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:24:14.832] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:24:14.832] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:24:14.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:24:14.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[08Dec2024 23:24:14.833] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
