@@ -131,6 +131,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-08 05:25:41 +0000",
       "minecraft:taiga": "2024-12-07 03:42:45 +0000",
       "minecraft:frozen_river": "2024-12-08 05:28:06 +0000",
+      "quark:glimmering_weald": "2024-12-08 20:50:52 +0000",
       "minecraft:cherry_grove": "2024-12-06 00:15:33 +0000",
       "minecraft:sunflower_plains": "2024-12-05 23:47:21 +0000",
       "minecraft:birch_forest": "2024-12-07 03:45:06 +0000",
@@ -1188,6 +1189,12 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2024-12-08 06:18:15 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-12-08 20:44:43 +0000"
     },
     "done": true
   },
