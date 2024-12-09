@@ -1239,6 +1239,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-09 01:51:05 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2024-12-09 00:58:31 +0000"

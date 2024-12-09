@@ -341,7 +341,8 @@
       "golden_apple": "2024-12-06 22:45:51 +0000",
       "melon_slice": "2024-12-07 05:19:53 +0000",
       "golden_carrot": "2024-12-07 00:21:29 +0000",
-      "cooked_chicken": "2024-12-05 23:42:06 +0000"
+      "cooked_chicken": "2024-12-05 23:42:06 +0000",
+      "enchanted_golden_apple": "2024-12-09 01:53:37 +0000"
     },
     "done": false
   },
@@ -1127,6 +1128,12 @@
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2024-12-08 23:43:31 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2024-12-09 01:53:53 +0000"
     },
     "done": true
   },
