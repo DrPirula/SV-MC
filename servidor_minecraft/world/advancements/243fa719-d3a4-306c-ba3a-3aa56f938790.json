@@ -235,6 +235,7 @@
       "minecraft:stray": "2024-12-07 00:41:26 +0000",
       "minecraft:vex": "2024-12-05 04:51:45 +0000",
       "minecraft:zombie": "2024-12-05 03:40:08 +0000",
+      "minecraft:drowned": "2024-12-09 00:20:37 +0000",
       "minecraft:zombie_villager": "2024-12-05 04:46:58 +0000"
     },
     "done": false
@@ -1221,6 +1222,12 @@
       "coded_trigger": "2024-12-08 22:46:42 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-09 00:26:04 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
