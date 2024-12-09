@@ -1293,45 +1293,9 @@
     },
     "done": true
   },
-  "aether:mount_phyg": {
-    "criteria": {
-      "mount_phyg": "2024-12-09 03:51:32 +0000"
-    },
-    "done": true
-  },
-  "aether:regen_stone": {
-    "criteria": {
-      "regen_stone": "2024-12-09 03:31:43 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_heavenly_conqueror": {
-    "criteria": {
-      "location0": "2024-12-09 03:36:36 +0000"
-    },
-    "done": true
-  },
-  "aether:silver_dungeon": {
-    "criteria": {
-      "kill_valkyrie_queen": "2024-12-09 03:31:29 +0000"
-    },
-    "done": true
-  },
   "aether:obtain_petal": {
     "criteria": {
       "aechor_petal": "2024-12-09 03:22:43 +0000"
-    },
-    "done": true
-  },
-  "aether:valkyrie_loot": {
-    "criteria": {
-      "valkyrie_boots": "2024-12-09 03:31:43 +0000"
-    },
-    "done": true
-  },
-  "aether:zanite": {
-    "criteria": {
-      "zanite": "2024-12-09 03:23:57 +0000"
     },
     "done": true
   },
@@ -1341,9 +1305,118 @@
     },
     "done": true
   },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2024-12-09 03:23:57 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2024-12-09 03:31:29 +0000"
+    },
+    "done": true
+  },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2024-12-09 03:31:43 +0000"
+    },
+    "done": true
+  },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_boots": "2024-12-09 03:31:43 +0000"
+    },
+    "done": true
+  },
   "aether:gravitite_armor": {
     "criteria": {
       "gravitite_boots": "2024-12-09 03:31:43 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2024-12-09 03:36:36 +0000"
+    },
+    "done": true
+  },
+  "aether:mount_phyg": {
+    "criteria": {
+      "mount_phyg": "2024-12-09 03:51:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 04:19:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 04:19:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 04:19:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 04:19:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 04:19:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-09 04:19:18 +0000",
+      "log_spam_fixer": "2024-12-09 04:19:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 04:19:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 04:19:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 04:19:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 04:19:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 04:19:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-09 04:19:18 +0000"
     },
     "done": false
   },
