@@ -1223,11 +1223,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "endrem:main/eyes_recipe": {
     "criteria": {
-      "requirement": "2024-12-09 00:26:04 +0000"
+      "eyes": "2024-12-09 00:31:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
