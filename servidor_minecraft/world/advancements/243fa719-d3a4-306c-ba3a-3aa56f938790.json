@@ -1293,9 +1293,33 @@
     },
     "done": true
   },
+  "aether:regen_stone": {
+    "criteria": {
+      "regen_stone": "2024-12-09 03:31:43 +0000"
+    },
+    "done": true
+  },
+  "aether:silver_dungeon": {
+    "criteria": {
+      "kill_valkyrie_queen": "2024-12-09 03:31:29 +0000"
+    },
+    "done": true
+  },
   "aether:obtain_petal": {
     "criteria": {
       "aechor_petal": "2024-12-09 03:22:43 +0000"
+    },
+    "done": true
+  },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_boots": "2024-12-09 03:31:43 +0000"
+    },
+    "done": true
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2024-12-09 03:23:57 +0000"
     },
     "done": true
   },
@@ -1304,6 +1328,12 @@
       "moa_egg": "2024-12-09 03:22:43 +0000"
     },
     "done": true
+  },
+  "aether:gravitite_armor": {
+    "criteria": {
+      "gravitite_boots": "2024-12-09 03:31:43 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
