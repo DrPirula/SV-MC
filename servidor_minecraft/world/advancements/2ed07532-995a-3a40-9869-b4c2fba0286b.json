@@ -1032,6 +1032,7 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:ash_barrens": "2024-12-08 04:16:23 +0000",
+      "incendium:infernal_dunes": "2024-12-09 01:27:07 +0000",
       "incendium:quartz_flats": "2024-12-08 23:25:46 +0000",
       "incendium:volcanic_deltas": "2024-12-08 04:19:35 +0000"
     },
@@ -1143,6 +1144,18 @@
   "iceandfire:iceandfire/dragonarmor": {
     "criteria": {
       "iron": "2024-12-09 00:39:41 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/bloody_altar": {
+    "criteria": {
+      "requirement": "2024-12-09 01:26:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2024-12-09 01:27:07 +0000"
     },
     "done": true
   },
