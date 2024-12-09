@@ -1224,12 +1224,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-09 01:13:42 +0000"
-    },
-    "done": false
-  },
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2024-12-09 00:56:20 +0000"
