@@ -1293,6 +1293,12 @@
     },
     "done": true
   },
+  "aether:mount_phyg": {
+    "criteria": {
+      "mount_phyg": "2024-12-09 03:51:32 +0000"
+    },
+    "done": true
+  },
   "aether:regen_stone": {
     "criteria": {
       "regen_stone": "2024-12-09 03:31:43 +0000"

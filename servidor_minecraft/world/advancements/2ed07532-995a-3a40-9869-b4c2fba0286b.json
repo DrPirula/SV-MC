@@ -1223,6 +1223,18 @@
     },
     "done": true
   },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2024-12-09 03:23:23 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2024-12-09 03:23:23 +0000"
+    },
+    "done": true
+  },
   "aether:icestone": {
     "criteria": {
       "icestone": "2024-12-09 03:23:30 +0000"
@@ -1235,27 +1247,9 @@
     },
     "done": true
   },
-  "aether:obtain_petal": {
-    "criteria": {
-      "aechor_petal": "2024-12-09 03:23:23 +0000"
-    },
-    "done": true
-  },
   "aether:valkyrie_loot": {
     "criteria": {
       "valkyrie_leggings": "2024-12-09 03:31:44 +0000"
-    },
-    "done": true
-  },
-  "aether:zanite": {
-    "criteria": {
-      "zanite": "2024-12-09 03:36:02 +0000"
-    },
-    "done": true
-  },
-  "aether:obtain_egg": {
-    "criteria": {
-      "moa_egg": "2024-12-09 03:23:23 +0000"
     },
     "done": true
   },
@@ -1264,6 +1258,12 @@
       "gravitite_gloves": "2024-12-09 03:31:46 +0000"
     },
     "done": false
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2024-12-09 03:36:02 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
