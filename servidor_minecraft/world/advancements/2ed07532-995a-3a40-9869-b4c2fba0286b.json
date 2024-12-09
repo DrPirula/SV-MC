@@ -1247,6 +1247,12 @@
     },
     "done": true
   },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2024-12-09 03:36:02 +0000"
+    },
+    "done": true
+  },
   "aether:obtain_egg": {
     "criteria": {
       "moa_egg": "2024-12-09 03:23:23 +0000"

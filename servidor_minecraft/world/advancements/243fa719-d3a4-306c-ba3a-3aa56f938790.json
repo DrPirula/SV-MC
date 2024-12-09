@@ -1299,6 +1299,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2024-12-09 03:36:36 +0000"
+    },
+    "done": true
+  },
   "aether:silver_dungeon": {
     "criteria": {
       "kill_valkyrie_queen": "2024-12-09 03:31:29 +0000"
