@@ -1128,6 +1128,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2024-12-09 00:55:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2024-12-09 00:20:24 +0000"
@@ -1137,6 +1143,12 @@
   "iceandfire:iceandfire/dragonarmor": {
     "criteria": {
       "iron": "2024-12-09 00:39:41 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-12-09 00:58:48 +0000"
     },
     "done": true
   },

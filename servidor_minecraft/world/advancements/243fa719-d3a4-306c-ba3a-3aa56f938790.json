@@ -1224,6 +1224,18 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2024-12-09 00:56:20 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-12-09 00:58:31 +0000"
+    },
+    "done": true
+  },
   "endrem:main/eyes_recipe": {
     "criteria": {
       "eyes": "2024-12-09 00:31:56 +0000"

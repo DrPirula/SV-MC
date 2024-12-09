@@ -1347,3 +1347,10 @@
 [09Dec2024 00:56:49.550] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
 [09Dec2024 00:56:49.576] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
 [09Dec2024 00:56:54.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3348ms or 66 ticks behind
+[09Dec2024 00:58:19.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[09Dec2024 00:58:31.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mufinmatias has made the advancement [Ancient Civilization]
+[09Dec2024 00:58:41.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7094ms or 141 ticks behind
+[09Dec2024 00:58:48.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has made the advancement [Ancient Civilization]
+[09Dec2024 00:59:20.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was blown up by Faller
+[09Dec2024 00:59:21.328] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[09Dec2024 00:59:25.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3379ms or 67 ticks behind
