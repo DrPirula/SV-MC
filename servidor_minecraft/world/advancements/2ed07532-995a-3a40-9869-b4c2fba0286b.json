@@ -1272,6 +1272,24 @@
     },
     "done": true
   },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-10 21:57:40 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/guling": {
+    "criteria": {
+      "requirement": "2024-12-10 21:58:37 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/kill_all_immortal_mob": {
+    "criteria": {
+      "eeeabsmobs:immortal_golem": "2024-12-10 22:02:00 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/on_player_hurt": {
     "criteria": {
       "requirement": "2024-12-10 22:02:45 +0000",
@@ -1344,24 +1362,6 @@
       "log_spam_fixer": "2024-12-10 22:02:45 +0000"
     },
     "done": false
-  },
-  "eeeabsmobs:eeeabsmobs/kill_all_immortal_mob": {
-    "criteria": {
-      "eeeabsmobs:immortal_golem": "2024-12-10 22:02:00 +0000"
-    },
-    "done": false
-  },
-  "quark:get_forgotten_hat": {
-    "criteria": {
-      "get_forgotten_hat": "2024-12-10 21:57:40 +0000"
-    },
-    "done": true
-  },
-  "eeeabsmobs:eeeabsmobs/guling": {
-    "criteria": {
-      "requirement": "2024-12-10 21:58:37 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
