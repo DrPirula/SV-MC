@@ -1291,6 +1291,12 @@
     },
     "done": false
   },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "steel": "2024-12-11 01:42:32 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/sunbird_blessing": {
     "criteria": {
       "all_effects": "2024-12-11 00:46:46 +0000"
@@ -1300,6 +1306,12 @@
   "enemyexpansion:troll_hunter": {
     "criteria": {
       "troll_hunter_0": "2024-12-11 01:04:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2024-12-11 01:34:52 +0000"
     },
     "done": true
   },
