@@ -1290,6 +1290,18 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2024-12-11 00:46:46 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2024-12-11 00:48:22 +0000"
+    },
+    "done": true
+  },
   "placeablesmod:villagerslovethem": {
     "criteria": {
       "villagerslovethem": "2024-12-10 23:54:55 +0000"
