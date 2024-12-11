@@ -1303,6 +1303,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2024-12-11 01:49:37 +0000"
+    },
+    "done": true
+  },
   "enemyexpansion:troll_hunter": {
     "criteria": {
       "troll_hunter_0": "2024-12-11 01:04:50 +0000"
