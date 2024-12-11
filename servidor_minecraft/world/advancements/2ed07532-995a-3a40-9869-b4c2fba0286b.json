@@ -1290,5 +1290,11 @@
     },
     "done": false
   },
+  "placeablesmod:villagerslovethem": {
+    "criteria": {
+      "villagerslovethem": "2024-12-10 23:54:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
