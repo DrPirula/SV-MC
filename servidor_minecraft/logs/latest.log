@@ -457,3 +457,23 @@
 [11Dec2024 00:50:44.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9052ms or 181 ticks behind
 [11Dec2024 00:51:08.770] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
 [11Dec2024 00:51:45.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2398ms or 47 ticks behind
+[11Dec2024 00:55:29.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[11Dec2024 00:55:49.950] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/46467, l='ServerLevel[world]', x=-800.50, y=70.00, z=-284.50]
+[11Dec2024 00:56:16.152] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/46618, l='ServerLevel[world]', x=-798.50, y=70.00, z=-284.50]
+[11Dec2024 00:56:53.199] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/46829, l='ServerLevel[world]', x=-783.50, y=69.00, z=-260.50]
+[11Dec2024 00:57:13.351] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/46937, l='ServerLevel[world]', x=-821.50, y=72.00, z=-182.50]
+[11Dec2024 00:57:36.599] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47039, l='ServerLevel[world]', x=-783.50, y=69.00, z=-262.50]
+[11Dec2024 00:57:59.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-900, y=-1, z=-270} BlockPos{x=-900, y=-1, z=-272}
+[11Dec2024 00:58:00.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-900, y=-1, z=-270} BlockPos{x=-900, y=-1, z=-272}
+[11Dec2024 00:58:14.821] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47221, l='ServerLevel[world]', x=-784.50, y=69.00, z=-261.50]
+[11Dec2024 00:58:26.804] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47270, l='ServerLevel[world]', x=-820.50, y=72.00, z=-184.50]
+[11Dec2024 00:59:01.400] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47453, l='ServerLevel[world]', x=-848.50, y=70.00, z=-176.50]
+[11Dec2024 00:59:18.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo was blown up by Intruder
+[11Dec2024 00:59:18.830] [Server thread/INFO] [tombstone/]: The player gusta20delcongo has successfully been saved
+[11Dec2024 00:59:25.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3134ms or 62 ticks behind
+[11Dec2024 01:00:30.850] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/48284, l='ServerLevel[world]', x=-798.50, y=70.00, z=-283.50]
+[11Dec2024 01:00:32.000] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/48315, l='ServerLevel[world]', x=-782.50, y=69.00, z=-261.50]
+[11Dec2024 01:01:22.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[11Dec2024 01:01:40.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
+[11Dec2024 01:02:22.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[11Dec2024 01:04:50.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gusta20delcongo has reached the goal [Troll Hunter]
