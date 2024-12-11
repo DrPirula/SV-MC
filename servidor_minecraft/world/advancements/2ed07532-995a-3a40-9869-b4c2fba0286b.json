@@ -1290,6 +1290,12 @@
     },
     "done": false
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-11 00:23:07 +0000"
+    },
+    "done": false
+  },
   "placeablesmod:villagerslovethem": {
     "criteria": {
       "villagerslovethem": "2024-12-10 23:54:55 +0000"
